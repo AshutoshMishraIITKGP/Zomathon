@@ -338,16 +338,19 @@ CSAO Attach Rate & 100\% & All carts get recs \\
 \end{tabular}
 \end{center}
 
+% ======================================================================
+% 8. PERFORMANCE VISUALIZATIONS
+% ======================================================================
+\section{Performance Visualizations}
+
+The following dashboards highlight the system's performance against key business and engineering constraints.
+
 \begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_hitrate.png}
 \caption{Hit@K evaluation curve. 50.2\% of held-out items appear in the top-5 recommendations --- achieved without any user-specific personalization signal.}
 \label{fig:hitrate}
 \end{figure}
-
-\subsection{SASRec Transformer Ablation}
-
-Adding \texttt{sasrec\_score} as the 7th feature produced significant improvements across all evaluation metrics:
 
 \begin{figure}[htpb]
 \centering
@@ -356,16 +359,12 @@ Adding \texttt{sasrec\_score} as the 7th feature produced significant improvemen
 \label{fig:sasrec}
 \end{figure}
 
-\subsection{Latency Benchmark}
-
 \begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_latency.png}
 \caption{Latency distribution over 1,000 inference iterations. P50 = 3.65ms, 82$\times$ under the 300ms budget. The max spike (213ms) occurs on the first cold-start iteration due to Python object initialization, not model computation.}
 \label{fig:latency}
 \end{figure}
-
-\subsection{Business Impact: AOV Uplift}
 
 \begin{figure}[htpb]
 \centering
