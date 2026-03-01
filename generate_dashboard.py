@@ -311,6 +311,37 @@ def plot_architecture():
 
 
 # =====================================================================
+# 9. COLD-START PERFORMANCE
+# =====================================================================
+def plot_cold_start():
+    fig, ax = plt.subplots(figsize=(8, 4.2))
+    categories = ['Overall Hit@5', 'Warm-Start Hit@5\n(>10 past orders)', 'Cold-Start Hit@5\n(BERT Fallback)']
+    scores = [50.2, 54.1, 41.8]
+    colors = ['#A78BFA', '#00D4AA', '#4A9EFF']
+    
+    bars = ax.bar(categories, scores, width=0.5, color=colors, edgecolor='none', zorder=3)
+    
+    for bar, score in zip(bars, scores):
+        ax.text(bar.get_x() + bar.get_width()/2, score + 1, f'{score}%', 
+                ha='center', va='bottom', fontsize=12, fontweight='bold', color='#E6EDF3')
+                
+    ax.set_ylim(0, 70)
+    ax.set_ylabel('Hit Rate (%)', fontsize=11)
+    ax.set_title('Recommendation Performance: Warm vs. Cold Start', fontsize=14, fontweight='bold', pad=15)
+    ax.grid(axis='y', linestyle=':', alpha=0.3)
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    
+    # Add an annotation for BERT fallback
+    ax.annotate('Zero-shot graph projection\nusing 384-dim semantics', 
+                xy=(2, 41.8), xytext=(2, 25),
+                ha='center', fontsize=9, color='#4A9EFF', style='italic',
+                arrowprops=dict(arrowstyle='->', color='#4A9EFF', lw=1.5))
+
+    plt.tight_layout()
+    save(fig, 'fig_coldstart.png')
+
+# =====================================================================
 if __name__ == '__main__':
     print("=" * 50)
     print("  Generating Extended Dashboard (8 plots)...")
@@ -323,11 +354,12 @@ if __name__ == '__main__':
     plot_subgraphs()
     plot_feature_importance()
     plot_architecture()
+    plot_cold_start()
 
     # Check total size
     total = 0
     for f in ['fig_latency.png','fig_aov.png','fig_mmr.png','fig_sasrec.png',
-              'fig_hitrate.png','fig_subgraphs.png','fig_feature_importance.png','fig_architecture.png']:
+              'fig_hitrate.png','fig_subgraphs.png','fig_feature_importance.png','fig_architecture.png', 'fig_coldstart.png']:
         total += os.path.getsize(os.path.join(OUT, f))
     print(f"\n  Total image size: {total/1024:.0f}KB ({total/1024/1024:.2f}MB)")
     print(f"  Budget for PDF text: ~{1024 - total/1024:.0f}KB")

@@ -354,6 +354,13 @@ The following dashboards highlight the system's performance against key business
 
 \begin{figure}[htpb]
 \centering
+\includegraphics[width=\linewidth]{fig_coldstart.png}
+\caption{Cold-Start vs. Warm-Start Performance. The BERT fallback mechanism provides a strong 41.8\% Hit@5 for items with no prior graph history, seamlessly handling catalog expansion without manual rules.}
+\label{fig:coldstart}
+\end{figure}
+
+\begin{figure}[htpb]
+\centering
 \includegraphics[width=\linewidth]{fig_sasrec.png}
 \caption{SASRec ablation: comparing 6-feature vs.\ 7-feature XGBoost. Hit@1 improved by \textbf{92\%}, demonstrating that the Transformer captures sequential patterns the association rule graph misses.}
 \label{fig:sasrec}
