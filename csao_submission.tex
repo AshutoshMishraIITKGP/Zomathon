@@ -136,6 +136,8 @@ We parsed \textbf{21,131} raw order records from a CSV dataset. Each order conta
     \item Filters to \textbf{11,559 multi-item orders} (54.7\%) for rule mining
 \end{enumerate}
 
+To ensure dummy data realism, our parsing pipeline preserved natural sparsity, varying cart sizes, and geographical imbalances inherent in the real-world Kaggle dataset, effectively simulating Zomato's messy production environment without injecting artificial leakage.
+
 This produced \textbf{244 unique menu items} across the catalog.
 
 \subsection{Contextual Feature Engineering}
