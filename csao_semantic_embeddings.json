@@ -1,0 +1,851 @@
+{
+  "model": "all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "num_items": 244,
+  "clusters": {
+    "Burger Aac": [
+      "AAC Fried Chicken Burger",
+      "AAC Fried Paneer Burger",
+      "AAC Grilled Chicken Burger",
+      "AAC Grilled Chicken Burger .",
+      "AAC Grilled Paneer Burger",
+      "AAC Saucy Fries",
+      "AAC Signature Crisper Fries",
+      "AAC Signature Fries",
+      "Chicken Smashed Burger",
+      "Fried Chicken Beast AAC Burger",
+      "Fried Chicken Beast Burger",
+      "Fried Chicken Classic Tenders + AAC Signature Fries",
+      "Fried Chicken Dirty Burger",
+      "Fried Mushroom Burger",
+      "Korean Fried Chicken Burger"
+    ],
+    "Slaw Aac": [
+      "AAC Special Slaw",
+      "Dirty Indian Slaw"
+    ],
+    "Pizza Chicken": [
+      "All About Chicken Pizza",
+      "Chicken Pepperoni Pizza",
+      "Desi Chicken Pepperoni Pizza",
+      "Just Pepperoni Pizza",
+      "Loaded Chicken Pepperoni Pizza",
+      "Peri Peri Grilled Chicken Pizza"
+    ],
+    "Chicken Grilled": [
+      "Carribean Jerk Grilled Chicken Quarter",
+      "Carribean Jerk Grilled Chicken Tangdi (4pcs)",
+      "Carribean Jerk dip",
+      "Chicken 65 Grilled Chicken Quarter",
+      "Malvani Grilled Chicken Quarter",
+      "Smoky BBQ Grilled Chicken Quarter"
+    ],
+    "Paneer Grilled": [
+      "Angara Grilled Paneer (8 pcs)",
+      "Angara Paneer Melt",
+      "Angara Paneer Steak",
+      "Fried Paneer Angara Slider",
+      "Grilled Paneer Afghani Slider",
+      "Grilled Paneer Angara Slider",
+      "Grilled Paneer Burger",
+      "Grilled Paneer Burger .",
+      "Kabuli Grilled Paneer (8 pcs)",
+      "Paneer 65 Paneer Steak"
+    ],
+    "Angara Rice": [
+      "Angara Rice",
+      "Angara Sauce"
+    ],
+    "Fries Saucy": [
+      "Animal Fries",
+      "Animal Fries .",
+      "Dirty Saucy Chicken Loaded Fries",
+      "Dirty Saucy Chicken Loaded Fries .",
+      "Ooh Masala Fries",
+      "Ooh Saucy Fries",
+      "Salted Fries",
+      "Salted Fries ."
+    ],
+    "Veg Burger": [
+      "Atomic Veg Burger",
+      "Atomic Veg Burger .",
+      "Cheesy Veg Burger"
+    ],
+    "Bacon Melt": [
+      "Bacon Pepperoni Melt",
+      "Classic Bacon Melt Tenderloin Burger"
+    ],
+    "Pizza Bageecha": [
+      "Bageecha Pizza",
+      "Bageecha Pizza .",
+      "Mushroom Pizza"
+    ],
+    "Onion Pizza": [
+      "Bellpepper Onion Pizza",
+      "Brocolli Onion Pizza"
+    ],
+    "Peri Chicken": [
+      "Bone in Peri Peri Grilled Chicken",
+      "Bone in Peri Peri Grilled Chicken .",
+      "Fried Chicken Desi Peri Peri Bites (Bone)",
+      "Fried Chicken Peri Peri Tender",
+      "Fried Chicken Peri Peri Tender .",
+      "Grilled Chicken Peri Peri Tangdi",
+      "Grilled Chicken Peri Peri Tender",
+      "Grilled Chicken Peri Peri Tender .",
+      "Peri Peri Chicken Melt",
+      "Peri Peri Grilled Chicken Quarter",
+      "Peri Peri Grilled Chicken Tangdi (4pcs)"
+    ],
+    "Burger Grilled": [
+      "Butter Chicken Grilled Burger",
+      "Dirty Grilled Paneer Burger",
+      "Fried Paneer Burger .",
+      "Grilled Chicken 69 Burger",
+      "Grilled Chicken Dirty Burger",
+      "Grilled Chicken Dirty Burger .",
+      "Grilled Chicken Double Dirty Burger"
+    ],
+    "Cafreal Sauce": [
+      "Cafreal Sauce",
+      "Cafreal dip"
+    ],
+    "Garlic Bread": [
+      "Cheesy Garlic Bread",
+      "Chilli Cheese Garlic Bread",
+      "Chilli Cheese Garlic Bread .",
+      "Pepperoni Garlic Bread"
+    ],
+    "Chicken Tangdi": [
+      "Chicken 65 Grilled Chicken Tangdi (4pcs)",
+      "Fried Chicken Tangdi - 2pcs",
+      "Fried Chicken Tangdi - 4pcs",
+      "Grilled Chicken Ghostbuster Tangdi",
+      "Grilled Chicken Jamaican Tangdi",
+      "Grilled Chicken Smoky BBQ Tangdi",
+      "Grilled Chicken Tangdi",
+      "Grilled Tangdis",
+      "Malvani Grilled Chicken Tangdi (4pcs)",
+      "Smoky BBQ Grilled Chicken Tangdi (4pcs)"
+    ],
+    "Smashed Burger": [
+      "Chicken Smashed Burgers .",
+      "Chicken Smashed Double Burger",
+      "Mutton Smashed Burger",
+      "Tenderloin Smashed Burger",
+      "Tenderloin Smashed Double Burger"
+    ],
+    "Combo For": [
+      "Combo For 1",
+      "Combo For 1 - Non Veg",
+      "Combo For 1 - Veg",
+      "Combo for 2 - Non Veg",
+      "Combo for 2 - Veg",
+      "Combo for 4 - Veg"
+    ],
+    "Fries Masala": [
+      "Desi Masala Crispers Fries",
+      "Desi Masala Fries",
+      "Dirty Indian Masala Crisper Fries",
+      "Dirty Indian Masala Fries",
+      "Dirty Masala Fries",
+      "Grlld Masala Fries",
+      "Indian Masala Cripser Fries",
+      "Indian Masala Fries",
+      "Peri Peri Crisper Fries",
+      "Peri Peri Crispers Fries",
+      "Peri Peri Fries",
+      "Salted Crisper Fries"
+    ],
+    "Dynamite Sauce": [
+      "Dynamite sauce",
+      "India Dynamite sauce"
+    ],
+    "Fried Chicken": [
+      "Fried Chicken 65 Masala Boneless Bites",
+      "Fried Chicken Bites (Bone) - 4pcs",
+      "Fried Chicken Bites (Bone) - 8pcs",
+      "Fried Chicken Boneless Bites - 10pcs",
+      "Fried Chicken Boneless Bites - 6pcs"
+    ],
+    "Chicken Fried": [
+      "Fried Chicken Angara Slider",
+      "Fried Chicken Angara Tender",
+      "Grilled Chicken Jamaican Slider",
+      "Korean Fried Chicken Slider"
+    ],
+    "Chicken Tender": [
+      "Fried Chicken Classic Tender",
+      "Fried Chicken Classic Tender .",
+      "Fried Chicken Ghostbuster Tender",
+      "Fried Chicken Kabuli Tender",
+      "Fried Chicken Kabuli Tender .",
+      "Fried Chicken Tenders",
+      "Grilled Chicken Jamaican Tender",
+      "Grilled Chicken Jamaican Tender .",
+      "Grilled Chicken Smoky BBQ Tender",
+      "Grilled Chicken Smoky BBQ Tender ."
+    ],
+    "Peri Fries": [
+      "Fried Chicken Peri Peri Tenders + Peri Peri Fries",
+      "Grilled Chicken Angara Tenders + Salted Fries",
+      "Peri Peri Fries ."
+    ],
+    "Salted Krispers": [
+      "Grilled Chicken Tangdi Jamaican + Salted Krispers",
+      "Salted Krispers"
+    ],
+    "Grlld Potatoes": [
+      "Grlld Potatoes",
+      "Grlld Vegetables"
+    ],
+    "Mayo Harisa": [
+      "Harisa Mayo",
+      "Harissa Mayo",
+      "Mayonnaise"
+    ],
+    "Honey Mustard": [
+      "Honey Mustard sauce",
+      "Indian Honey Mustard sauce"
+    ],
+    "Iced Tea": [
+      "Iced Green Tea - Mojito",
+      "Iced Green Tea - Peach",
+      "Raw Mint Mojito Iced Tea"
+    ],
+    "Jamaican Chicken": [
+      "Jamaican Chicken Melt",
+      "Jamaican Chicken Melt .",
+      "Loaded Jamaican Grilled Chicken Pizza"
+    ],
+    "Paneer Pizza": [
+      "Makhani Paneer Pizza",
+      "Makhani Paneer Pizza .",
+      "Masala Paneer Pide",
+      "Peri Peri Paneer Pizza"
+    ],
+    "Masala Pide": [
+      "Masala Omelette Pide",
+      "Masala Potato Pide"
+    ],
+    "Murgh Amritsari": [
+      "Murgh Amritsari Garlic Bread",
+      "Murgh Amritsari Seekh Melt",
+      "Murgh Amritsari Seekh Pizza"
+    ],
+    "Mutton Seekh": [
+      "Mutton Seekh Pide",
+      "Mutton Seekh Pizza"
+    ],
+    "Cheese Burger": [
+      "OG Cheese Burger",
+      "OG Cheese Pide",
+      "Og Cheese Burger"
+    ],
+    "Onion Bombs": [
+      "Onion Bombs",
+      "Onion Rings"
+    ],
+    "Peri Ketchup": [
+      "Peri Peri Ketchup",
+      "Peri Peri Krispers",
+      "Peri Peri Sauce"
+    ],
+    "Smoky Bbq": [
+      "Smoky BBQ Sauce",
+      "Smoky BBQ dip"
+    ],
+    "Tipsy Tiger": [
+      "Tipsy Tiger Fresh Lime Soda",
+      "Tipsy Tiger Ginger Ale"
+    ]
+  },
+  "items": [
+    "AAC Fried Chicken Burger",
+    "AAC Fried Paneer Burger",
+    "AAC Grilled Chicken Burger",
+    "AAC Grilled Chicken Burger .",
+    "AAC Grilled Paneer Burger",
+    "AAC Saucy Fries",
+    "AAC Signature Crisper Fries",
+    "AAC Signature Fries",
+    "AAC Signature Krispers",
+    "AAC Special Slaw",
+    "All About Chicken Pizza",
+    "Angara Aloo Tuk Tuki",
+    "Angara Boneless Grilled Chicken Breast",
+    "Angara Grilled Chicken Quarter",
+    "Angara Grilled Chicken Tangdi (4pcs)",
+    "Angara Grilled Paneer (8 pcs)",
+    "Angara Paneer Melt",
+    "Angara Paneer Steak",
+    "Angara Rice",
+    "Angara Sauce",
+    "Animal Fries",
+    "Animal Fries .",
+    "Atomic Veg Burger",
+    "Atomic Veg Burger .",
+    "BC Burger",
+    "Bacon Pepperoni Melt",
+    "Bageecha Pizza",
+    "Bageecha Pizza .",
+    "Bangin' Soya Burger",
+    "Bellpepper Onion Pizza",
+    "Bone in Angara Grilled Chicken",
+    "Bone in Angara Grilled Chicken .",
+    "Bone in Jamaican Grilled Chicken",
+    "Bone in Jamaican Grilled Chicken .",
+    "Bone in Jamaican Grilled Chicken Quarter + Angara Rice",
+    "Bone in Kabuli Grilled Chicken",
+    "Bone in Peri Peri Grilled Chicken",
+    "Bone in Peri Peri Grilled Chicken .",
+    "Bone in Smoky Bbq Grilled Chicken",
+    "Bone in Smoky Bbq Grilled Chicken .",
+    "Brocolli Onion Pizza",
+    "Butter Chicken Grilled Burger",
+    "Cafreal Sauce",
+    "Cafreal dip",
+    "Carribean Jerk Boneless Grilled Chicken Breast",
+    "Carribean Jerk Grilled Chicken Quarter",
+    "Carribean Jerk Grilled Chicken Tangdi (4pcs)",
+    "Carribean Jerk dip",
+    "Cheesy Garlic Bread",
+    "Cheesy Veg Burger",
+    "Chicken 65 Boneless Grilled Chicken Breast",
+    "Chicken 65 Grilled Chicken Quarter",
+    "Chicken 65 Grilled Chicken Tangdi (4pcs)",
+    "Chicken 69",
+    "Chicken Pepperoni Pizza",
+    "Chicken Smashed Burger",
+    "Chicken Smashed Burgers .",
+    "Chicken Smashed Double Burger",
+    "Chilli Cheese Garlic Bread",
+    "Chilli Cheese Garlic Bread .",
+    "Chocolate Walnut Brownie",
+    "Classic Bacon Melt Tenderloin Burger",
+    "Classic Bacon Melt Tenderloin Burger .",
+    "Coleslaw",
+    "Combo For 1",
+    "Combo For 1 - Non Veg",
+    "Combo For 1 - Veg",
+    "Combo for 2 - Non Veg",
+    "Combo for 2 - Veg",
+    "Combo for 4 - Veg",
+    "Cous Cous",
+    "Crushed Papad",
+    "Desi Chicken Pepperoni Pizza",
+    "Desi Masala Crispers Fries",
+    "Desi Masala Fries",
+    "Desi Pepperoni Pizza",
+    "Dirty Grilled Paneer Burger",
+    "Dirty Indian Masala Crisper Fries",
+    "Dirty Indian Masala Fries",
+    "Dirty Indian Slaw",
+    "Dirty Indian Soya Chunks",
+    "Dirty Masala Fries",
+    "Dirty Saucy Chicken Loaded Fries",
+    "Dirty Saucy Chicken Loaded Fries .",
+    "Dirty Saucy Fries",
+    "Dynamite sauce",
+    "Fire Alarm Tenderloin Burger",
+    "Fried Chicken 65 Masala Boneless Bites",
+    "Fried Chicken Angara Slider",
+    "Fried Chicken Angara Tender",
+    "Fried Chicken Angara Tender .",
+    "Fried Chicken Beast AAC Burger",
+    "Fried Chicken Beast Burger",
+    "Fried Chicken Bites (Bone) - 4pcs",
+    "Fried Chicken Bites (Bone) - 8pcs",
+    "Fried Chicken Boneless Bites - 10pcs",
+    "Fried Chicken Boneless Bites - 6pcs",
+    "Fried Chicken Classic Tender",
+    "Fried Chicken Classic Tender .",
+    "Fried Chicken Classic Tenders + AAC Signature Fries",
+    "Fried Chicken Desi Peri Peri Bites (Bone)",
+    "Fried Chicken Dirty Burger",
+    "Fried Chicken Ghostbuster Tender",
+    "Fried Chicken Kabuli Tender",
+    "Fried Chicken Kabuli Tender .",
+    "Fried Chicken Peri Peri Tender",
+    "Fried Chicken Peri Peri Tender .",
+    "Fried Chicken Peri Peri Tenders + Peri Peri Fries",
+    "Fried Chicken Strips",
+    "Fried Chicken Tangdi - 2pcs",
+    "Fried Chicken Tangdi - 4pcs",
+    "Fried Chicken Tenders",
+    "Fried Mushroom Burger",
+    "Fried Paneer Angara Slider",
+    "Fried Paneer Burger .",
+    "Garlic Aioli",
+    "GhostBuster Sauce",
+    "Grilled Chicken 69 Burger",
+    "Grilled Chicken Afghani Boneless Breast",
+    "Grilled Chicken Angara Boneless Breast",
+    "Grilled Chicken Angara Tangdi",
+    "Grilled Chicken Angara Tender",
+    "Grilled Chicken Angara Tender .",
+    "Grilled Chicken Angara Tenders + Salted Fries",
+    "Grilled Chicken Dirty Burger",
+    "Grilled Chicken Dirty Burger .",
+    "Grilled Chicken Double Dirty Burger",
+    "Grilled Chicken Ghostbuster Tangdi",
+    "Grilled Chicken Jamaican Boneless Breast",
+    "Grilled Chicken Jamaican Slider",
+    "Grilled Chicken Jamaican Tangdi",
+    "Grilled Chicken Jamaican Tender",
+    "Grilled Chicken Jamaican Tender .",
+    "Grilled Chicken Peri Peri Boneless Breast",
+    "Grilled Chicken Peri Peri Tangdi",
+    "Grilled Chicken Peri Peri Tender",
+    "Grilled Chicken Peri Peri Tender .",
+    "Grilled Chicken Smoky BBQ Tangdi",
+    "Grilled Chicken Smoky BBQ Tender",
+    "Grilled Chicken Smoky BBQ Tender .",
+    "Grilled Chicken Smoky Bbq Boneless Breast",
+    "Grilled Chicken Tangdi",
+    "Grilled Chicken Tangdi Jamaican + Salted Krispers",
+    "Grilled Paneer Afghani Slider",
+    "Grilled Paneer Angara Slider",
+    "Grilled Paneer Burger",
+    "Grilled Paneer Burger .",
+    "Grilled Tangdis",
+    "Grlld Masala Fries",
+    "Grlld Potatoes",
+    "Grlld Vegetables",
+    "Harisa Mayo",
+    "Harissa Mayo",
+    "Herbed Potato",
+    "Honey Mustard sauce",
+    "Iced Green Tea - Mojito",
+    "Iced Green Tea - Peach",
+    "India Dynamite sauce",
+    "Indian Honey Mustard sauce",
+    "Indian Masala Cripser Fries",
+    "Indian Masala Fries",
+    "Indian Pico De-Gallo",
+    "Indian Salsa",
+    "Jamaican Chicken Melt",
+    "Jamaican Chicken Melt .",
+    "Jamaican Sauce",
+    "Just Pepperoni Pide",
+    "Just Pepperoni Pizza",
+    "Kabuli Grilled Paneer (8 pcs)",
+    "Korean Fried Chicken Burger",
+    "Korean Fried Chicken Slider",
+    "Loaded Chicken Pepperoni Pizza",
+    "Loaded Jamaican Grilled Chicken Pizza",
+    "Loaded Korean Grilled Chicken Pizza",
+    "Loaded Pork Pepperoni Pizza",
+    "Makhani Paneer Pizza",
+    "Makhani Paneer Pizza .",
+    "Malai Gud Pide",
+    "Malvani Boneless Grilled Chicken Breast",
+    "Malvani Grilled Chicken Quarter",
+    "Malvani Grilled Chicken Tangdi (4pcs)",
+    "Malvani Paneer Steak",
+    "Margherita Pizza",
+    "Masala Omelette Pide",
+    "Masala Paneer Pide",
+    "Masala Potato Pide",
+    "Mayonnaise",
+    "Mint Mayonnaise",
+    "Murgh Amritsari Garlic Bread",
+    "Murgh Amritsari Seekh Melt",
+    "Murgh Amritsari Seekh Pide",
+    "Murgh Amritsari Seekh Pizza",
+    "Mushroom Mozzarella Melt",
+    "Mushroom Pizza",
+    "Mutton Seekh Pide",
+    "Mutton Seekh Pizza",
+    "Mutton Smashed Burger",
+    "Mutton Smashed Double Burger",
+    "OG Cheese Burger",
+    "OG Cheese Pide",
+    "Og Cheese Burger",
+    "Onion Bombs",
+    "Onion Rings",
+    "Ooh Masala Fries",
+    "Ooh Saucy Fries",
+    "Paneer 65 Paneer Steak",
+    "Peanut Butter Chocolate Pide",
+    "Pepperoni Garlic Bread",
+    "Peri Peri Boneless Grilled Chicken Breast",
+    "Peri Peri Chicken Melt",
+    "Peri Peri Crisper Fries",
+    "Peri Peri Crispers Fries",
+    "Peri Peri Fries",
+    "Peri Peri Fries .",
+    "Peri Peri Grilled Chicken Pizza",
+    "Peri Peri Grilled Chicken Quarter",
+    "Peri Peri Grilled Chicken Tangdi (4pcs)",
+    "Peri Peri Ketchup",
+    "Peri Peri Krispers",
+    "Peri Peri Paneer Melt",
+    "Peri Peri Paneer Pizza",
+    "Peri Peri Sauce",
+    "Peri Peri dip",
+    "Raw Masala Lemon Shikanji",
+    "Raw Mint Mojito Iced Tea",
+    "Raw Peach Iced Tea",
+    "Red Rice",
+    "Salted Crisper Fries",
+    "Salted Fries",
+    "Salted Fries .",
+    "Salted Krispers",
+    "Signature Smashed Tenderloin Burger",
+    "Smoky BBQ Boneless Grilled Chicken Breast",
+    "Smoky BBQ Grilled Chicken Quarter",
+    "Smoky BBQ Grilled Chicken Tangdi (4pcs)",
+    "Smoky BBQ Sauce",
+    "Smoky BBQ dip",
+    "Spinach Sumac Pide",
+    "Tenderloin Smashed Burger",
+    "Tenderloin Smashed Double Burger",
+    "Tipsy Tiger Fresh Lime Soda",
+    "Tipsy Tiger Ginger Ale",
+    "Tripple Cheese Pizza",
+    "Very Peri Tenderloin Burger"
+  ],
+  "sample_similarities": [
+    {
+      "item": "AAC Fried Chicken Burger",
+      "neighbors": [
+        {
+          "item": "Fried Chicken Beast AAC Burger",
+          "similarity": 0.9123
+        },
+        {
+          "item": "AAC Grilled Chicken Burger",
+          "similarity": 0.885
+        },
+        {
+          "item": "AAC Grilled Chicken Burger .",
+          "similarity": 0.8818
+        }
+      ]
+    },
+    {
+      "item": "AAC Fried Paneer Burger",
+      "neighbors": [
+        {
+          "item": "AAC Grilled Paneer Burger",
+          "similarity": 0.8945
+        },
+        {
+          "item": "AAC Fried Chicken Burger",
+          "similarity": 0.8506
+        },
+        {
+          "item": "Fried Paneer Burger .",
+          "similarity": 0.8293
+        }
+      ]
+    },
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "neighbors": [
+        {
+          "item": "AAC Grilled Chicken Burger .",
+          "similarity": 0.9755
+        },
+        {
+          "item": "AAC Fried Chicken Burger",
+          "similarity": 0.885
+        },
+        {
+          "item": "AAC Grilled Paneer Burger",
+          "similarity": 0.8448
+        }
+      ]
+    },
+    {
+      "item": "AAC Grilled Chicken Burger .",
+      "neighbors": [
+        {
+          "item": "AAC Grilled Chicken Burger",
+          "similarity": 0.9755
+        },
+        {
+          "item": "AAC Fried Chicken Burger",
+          "similarity": 0.8818
+        },
+        {
+          "item": "AAC Grilled Paneer Burger",
+          "similarity": 0.8324
+        }
+      ]
+    },
+    {
+      "item": "AAC Grilled Paneer Burger",
+      "neighbors": [
+        {
+          "item": "AAC Fried Paneer Burger",
+          "similarity": 0.8945
+        },
+        {
+          "item": "Grilled Paneer Burger",
+          "similarity": 0.8798
+        },
+        {
+          "item": "Grilled Paneer Burger .",
+          "similarity": 0.8514
+        }
+      ]
+    },
+    {
+      "item": "AAC Saucy Fries",
+      "neighbors": [
+        {
+          "item": "Ooh Saucy Fries",
+          "similarity": 0.8281
+        },
+        {
+          "item": "AAC Signature Fries",
+          "similarity": 0.7971
+        },
+        {
+          "item": "AAC Signature Crisper Fries",
+          "similarity": 0.785
+        }
+      ]
+    },
+    {
+      "item": "AAC Signature Crisper Fries",
+      "neighbors": [
+        {
+          "item": "AAC Signature Fries",
+          "similarity": 0.8841
+        },
+        {
+          "item": "AAC Saucy Fries",
+          "similarity": 0.785
+        },
+        {
+          "item": "Fried Chicken Classic Tenders + AAC Signature Fries",
+          "similarity": 0.7601
+        }
+      ]
+    },
+    {
+      "item": "AAC Signature Fries",
+      "neighbors": [
+        {
+          "item": "AAC Signature Crisper Fries",
+          "similarity": 0.8841
+        },
+        {
+          "item": "Fried Chicken Classic Tenders + AAC Signature Fries",
+          "similarity": 0.8024
+        },
+        {
+          "item": "AAC Saucy Fries",
+          "similarity": 0.7971
+        }
+      ]
+    },
+    {
+      "item": "AAC Signature Krispers",
+      "neighbors": [
+        {
+          "item": "AAC Signature Fries",
+          "similarity": 0.6847
+        },
+        {
+          "item": "AAC Signature Crisper Fries",
+          "similarity": 0.6029
+        },
+        {
+          "item": "Salted Krispers",
+          "similarity": 0.5531
+        }
+      ]
+    },
+    {
+      "item": "AAC Special Slaw",
+      "neighbors": [
+        {
+          "item": "Dirty Indian Slaw",
+          "similarity": 0.6609
+        },
+        {
+          "item": "AAC Saucy Fries",
+          "similarity": 0.4714
+        },
+        {
+          "item": "AAC Signature Krispers",
+          "similarity": 0.4604
+        }
+      ]
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "neighbors": [
+        {
+          "item": "Chicken Pepperoni Pizza",
+          "similarity": 0.7964
+        },
+        {
+          "item": "Loaded Chicken Pepperoni Pizza",
+          "similarity": 0.7287
+        },
+        {
+          "item": "Desi Chicken Pepperoni Pizza",
+          "similarity": 0.6854
+        }
+      ]
+    },
+    {
+      "item": "Angara Aloo Tuk Tuki",
+      "neighbors": [
+        {
+          "item": "Angara Rice",
+          "similarity": 0.595
+        },
+        {
+          "item": "Angara Sauce",
+          "similarity": 0.5449
+        },
+        {
+          "item": "Angara Paneer Steak",
+          "similarity": 0.4658
+        }
+      ]
+    },
+    {
+      "item": "Angara Boneless Grilled Chicken Breast",
+      "neighbors": [
+        {
+          "item": "Grilled Chicken Angara Boneless Breast",
+          "similarity": 0.9897
+        },
+        {
+          "item": "Grilled Chicken Afghani Boneless Breast",
+          "similarity": 0.8607
+        },
+        {
+          "item": "Malvani Boneless Grilled Chicken Breast",
+          "similarity": 0.8399
+        }
+      ]
+    },
+    {
+      "item": "Angara Grilled Chicken Quarter",
+      "neighbors": [
+        {
+          "item": "Grilled Chicken Angara Tangdi",
+          "similarity": 0.8027
+        },
+        {
+          "item": "Grilled Chicken Angara Tender",
+          "similarity": 0.7868
+        },
+        {
+          "item": "Grilled Chicken Angara Tender .",
+          "similarity": 0.785
+        }
+      ]
+    },
+    {
+      "item": "Angara Grilled Chicken Tangdi (4pcs)",
+      "neighbors": [
+        {
+          "item": "Grilled Chicken Angara Tangdi",
+          "similarity": 0.9524
+        },
+        {
+          "item": "Chicken 65 Grilled Chicken Tangdi (4pcs)",
+          "similarity": 0.8409
+        },
+        {
+          "item": "Grilled Chicken Tangdi",
+          "similarity": 0.8365
+        }
+      ]
+    },
+    {
+      "item": "Angara Grilled Paneer (8 pcs)",
+      "neighbors": [
+        {
+          "item": "Kabuli Grilled Paneer (8 pcs)",
+          "similarity": 0.8556
+        },
+        {
+          "item": "Grilled Paneer Angara Slider",
+          "similarity": 0.8274
+        },
+        {
+          "item": "Angara Paneer Melt",
+          "similarity": 0.7476
+        }
+      ]
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "neighbors": [
+        {
+          "item": "Angara Paneer Steak",
+          "similarity": 0.7701
+        },
+        {
+          "item": "Fried Paneer Angara Slider",
+          "similarity": 0.7597
+        },
+        {
+          "item": "Angara Grilled Paneer (8 pcs)",
+          "similarity": 0.7476
+        }
+      ]
+    },
+    {
+      "item": "Angara Paneer Steak",
+      "neighbors": [
+        {
+          "item": "Paneer 65 Paneer Steak",
+          "similarity": 0.7719
+        },
+        {
+          "item": "Angara Paneer Melt",
+          "similarity": 0.7701
+        },
+        {
+          "item": "Malvani Paneer Steak",
+          "similarity": 0.7602
+        }
+      ]
+    },
+    {
+      "item": "Angara Rice",
+      "neighbors": [
+        {
+          "item": "Angara Sauce",
+          "similarity": 0.7042
+        },
+        {
+          "item": "Red Rice",
+          "similarity": 0.6351
+        },
+        {
+          "item": "Angara Aloo Tuk Tuki",
+          "similarity": 0.595
+        }
+      ]
+    },
+    {
+      "item": "Angara Sauce",
+      "neighbors": [
+        {
+          "item": "Angara Rice",
+          "similarity": 0.7042
+        },
+        {
+          "item": "Grilled Chicken Angara Tangdi",
+          "similarity": 0.6506
+        },
+        {
+          "item": "Cafreal Sauce",
+          "similarity": 0.6426
+        }
+      ]
+    }
+  ]
+}

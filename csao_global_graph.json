@@ -1,0 +1,3987 @@
+{
+  "Grilled Chicken Dirty Burger": [
+    {
+      "item": "Mutton Smashed Burger",
+      "confidence": 0.4324,
+      "lift": 163.1737,
+      "support": 0.000757,
+      "score": 70.5563
+    }
+  ],
+  "Mutton Smashed Burger": [
+    {
+      "item": "Grilled Chicken Dirty Burger",
+      "confidence": 0.2857,
+      "lift": 163.1737,
+      "support": 0.000757,
+      "score": 46.6187
+    },
+    {
+      "item": "Dirty Saucy Fries",
+      "confidence": 0.2143,
+      "lift": 90.5614,
+      "support": 0.000568,
+      "score": 19.4073
+    }
+  ],
+  "Dirty Saucy Fries": [
+    {
+      "item": "Mutton Smashed Burger",
+      "confidence": 0.24,
+      "lift": 90.5614,
+      "support": 0.000568,
+      "score": 21.7347
+    }
+  ],
+  "Tipsy Tiger Fresh Lime Soda": [
+    {
+      "item": "Tipsy Tiger Ginger Ale",
+      "confidence": 0.1013,
+      "lift": 19.1163,
+      "support": 0.001088,
+      "score": 1.9365
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0661,
+      "lift": 2.776,
+      "support": 0.00071,
+      "score": 0.1835
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1542,
+      "lift": 1.0547,
+      "support": 0.001656,
+      "score": 0.1626
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0925,
+      "lift": 1.3575,
+      "support": 0.000994,
+      "score": 0.1256
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0573,
+      "lift": 1.6577,
+      "support": 0.000615,
+      "score": 0.095
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0837,
+      "lift": 1.0265,
+      "support": 0.000899,
+      "score": 0.0859
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0661,
+      "lift": 1.057,
+      "support": 0.00071,
+      "score": 0.0699
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0573,
+      "lift": 1.0569,
+      "support": 0.000615,
+      "score": 0.0606
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0485,
+      "lift": 1.1716,
+      "support": 0.000521,
+      "score": 0.0568
+    }
+  ],
+  "Tipsy Tiger Ginger Ale": [
+    {
+      "item": "Tipsy Tiger Fresh Lime Soda",
+      "confidence": 0.2054,
+      "lift": 19.1163,
+      "support": 0.001088,
+      "score": 3.9265
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2143,
+      "lift": 1.4659,
+      "support": 0.001136,
+      "score": 0.3141
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.125,
+      "lift": 1.533,
+      "support": 0.000663,
+      "score": 0.1916
+    }
+  ],
+  "Grilled Chicken Tangdi": [
+    {
+      "item": "Fried Chicken Tenders",
+      "confidence": 0.1392,
+      "lift": 18.8608,
+      "support": 0.000521,
+      "score": 2.6254
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1519,
+      "lift": 1.9789,
+      "support": 0.000568,
+      "score": 0.3006
+    }
+  ],
+  "Fried Chicken Tenders": [
+    {
+      "item": "Grilled Chicken Tangdi",
+      "confidence": 0.0705,
+      "lift": 18.8608,
+      "support": 0.000521,
+      "score": 1.3297
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.1538,
+      "lift": 2.8592,
+      "support": 0.001136,
+      "score": 0.4397
+    },
+    {
+      "item": "Onion Rings",
+      "confidence": 0.0769,
+      "lift": 5.7034,
+      "support": 0.000568,
+      "score": 0.4386
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0897,
+      "lift": 2.1698,
+      "support": 0.000663,
+      "score": 0.1946
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0833,
+      "lift": 1.5379,
+      "support": 0.000615,
+      "score": 0.1281
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.0962,
+      "lift": 1.2527,
+      "support": 0.00071,
+      "score": 0.1205
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0833,
+      "lift": 1.022,
+      "support": 0.000615,
+      "score": 0.0851
+    }
+  ],
+  "Harisa Mayo": [
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.1771,
+      "lift": 15.1496,
+      "support": 0.000805,
+      "score": 2.683
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.1667,
+      "lift": 7.0017,
+      "support": 0.000757,
+      "score": 1.1672
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.1458,
+      "lift": 3.5259,
+      "support": 0.000663,
+      "score": 0.5141
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.125,
+      "lift": 2.3069,
+      "support": 0.000568,
+      "score": 0.2884
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1458,
+      "lift": 1.7885,
+      "support": 0.000663,
+      "score": 0.2608
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1771,
+      "lift": 1.2114,
+      "support": 0.000805,
+      "score": 0.2145
+    }
+  ],
+  "Garlic Aioli": [
+    {
+      "item": "Harisa Mayo",
+      "confidence": 0.0688,
+      "lift": 15.1496,
+      "support": 0.000805,
+      "score": 1.0423
+    },
+    {
+      "item": "Peri Peri Fries",
+      "confidence": 0.0729,
+      "lift": 5.3284,
+      "support": 0.000852,
+      "score": 0.3884
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0891,
+      "lift": 3.7418,
+      "support": 0.001041,
+      "score": 0.3334
+    },
+    {
+      "item": "Indian Masala Cripser Fries",
+      "confidence": 0.0445,
+      "lift": 5.1144,
+      "support": 0.000521,
+      "score": 0.2276
+    },
+    {
+      "item": "Onion Rings",
+      "confidence": 0.0486,
+      "lift": 3.6021,
+      "support": 0.000568,
+      "score": 0.1751
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0486,
+      "lift": 2.9,
+      "support": 0.000568,
+      "score": 0.1409
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.085,
+      "lift": 1.5691,
+      "support": 0.000994,
+      "score": 0.1334
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0729,
+      "lift": 1.7619,
+      "support": 0.000852,
+      "score": 0.1284
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.0972,
+      "lift": 1.269,
+      "support": 0.001136,
+      "score": 0.1233
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0688,
+      "lift": 1.7397,
+      "support": 0.000805,
+      "score": 0.1197
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0486,
+      "lift": 1.9261,
+      "support": 0.000568,
+      "score": 0.0936
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0445,
+      "lift": 1.9363,
+      "support": 0.000521,
+      "score": 0.0862
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0486,
+      "lift": 1.4025,
+      "support": 0.000568,
+      "score": 0.0682
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0445,
+      "lift": 1.2891,
+      "support": 0.000521,
+      "score": 0.0574
+    }
+  ],
+  "Jamaican Sauce": [
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.3778,
+      "lift": 14.4879,
+      "support": 0.000805,
+      "score": 5.4735
+    }
+  ],
+  "Fried Chicken Peri Peri Tender": [
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1307,
+      "lift": 3.7825,
+      "support": 0.003407,
+      "score": 0.4944
+    },
+    {
+      "item": "Jamaican Sauce",
+      "confidence": 0.0309,
+      "lift": 14.4879,
+      "support": 0.000805,
+      "score": 0.4477
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0762,
+      "lift": 4.55,
+      "support": 0.001988,
+      "score": 0.3467
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0962,
+      "lift": 3.5165,
+      "support": 0.002508,
+      "score": 0.3383
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0581,
+      "lift": 3.2466,
+      "support": 0.001514,
+      "score": 0.1886
+    },
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.0417,
+      "lift": 3.7218,
+      "support": 0.001088,
+      "score": 0.1552
+    },
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.0363,
+      "lift": 3.1959,
+      "support": 0.000946,
+      "score": 0.116
+    },
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "confidence": 0.0309,
+      "lift": 3.6422,
+      "support": 0.000805,
+      "score": 0.1125
+    },
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.0381,
+      "lift": 2.4185,
+      "support": 0.000994,
+      "score": 0.0921
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.0799,
+      "lift": 1.0429,
+      "support": 0.002082,
+      "score": 0.0833
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.0363,
+      "lift": 1.9871,
+      "support": 0.000946,
+      "score": 0.0721
+    }
+  ],
+  "Malai Gud Pide": [
+    {
+      "item": "Peanut Butter Chocolate Pide",
+      "confidence": 0.0688,
+      "lift": 14.1162,
+      "support": 0.00071,
+      "score": 0.9712
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1743,
+      "lift": 2.5579,
+      "support": 0.001798,
+      "score": 0.4458
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1651,
+      "lift": 2.0253,
+      "support": 0.001704,
+      "score": 0.3344
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2202,
+      "lift": 1.5062,
+      "support": 0.002272,
+      "score": 0.3317
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0917,
+      "lift": 2.2181,
+      "support": 0.000946,
+      "score": 0.2034
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.078,
+      "lift": 2.2604,
+      "support": 0.000805,
+      "score": 0.1763
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1101,
+      "lift": 1.4342,
+      "support": 0.001136,
+      "score": 0.1579
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.078,
+      "lift": 1.9711,
+      "support": 0.000805,
+      "score": 0.1537
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0688,
+      "lift": 2.1996,
+      "support": 0.00071,
+      "score": 0.1513
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0872,
+      "lift": 1.6198,
+      "support": 0.000899,
+      "score": 0.1412
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.078,
+      "lift": 1.4392,
+      "support": 0.000805,
+      "score": 0.1123
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0642,
+      "lift": 1.5011,
+      "support": 0.000663,
+      "score": 0.0964
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.055,
+      "lift": 1.7387,
+      "support": 0.000568,
+      "score": 0.0956
+    }
+  ],
+  "Peanut Butter Chocolate Pide": [
+    {
+      "item": "Malai Gud Pide",
+      "confidence": 0.1456,
+      "lift": 14.1162,
+      "support": 0.00071,
+      "score": 2.0553
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1845,
+      "lift": 2.4032,
+      "support": 0.000899,
+      "score": 0.4434
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1456,
+      "lift": 1.786,
+      "support": 0.00071,
+      "score": 0.26
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1845,
+      "lift": 1.2619,
+      "support": 0.000899,
+      "score": 0.2328
+    }
+  ],
+  "AAC Grilled Chicken Burger": [
+    {
+      "item": "Fried Chicken Beast AAC Burger",
+      "confidence": 0.0782,
+      "lift": 12.7131,
+      "support": 0.000663,
+      "score": 0.9942
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1508,
+      "lift": 4.3662,
+      "support": 0.001278,
+      "score": 0.6584
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1061,
+      "lift": 3.8805,
+      "support": 0.000899,
+      "score": 0.4117
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0838,
+      "lift": 4.6845,
+      "support": 0.00071,
+      "score": 0.3926
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.095,
+      "lift": 3.6422,
+      "support": 0.000805,
+      "score": 0.346
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.067,
+      "lift": 1.9353,
+      "support": 0.000568,
+      "score": 0.1297
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.0782,
+      "lift": 1.0214,
+      "support": 0.000663,
+      "score": 0.0799
+    }
+  ],
+  "Fried Chicken Beast AAC Burger": [
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "confidence": 0.1077,
+      "lift": 12.7131,
+      "support": 0.000663,
+      "score": 1.3692
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.2,
+      "lift": 5.7893,
+      "support": 0.00123,
+      "score": 1.1579
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0923,
+      "lift": 4.0135,
+      "support": 0.000568,
+      "score": 0.3704
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0846,
+      "lift": 3.245,
+      "support": 0.000521,
+      "score": 0.2745
+    }
+  ],
+  "Fried Chicken Angara Tender": [
+    {
+      "item": "Fried Chicken Kabuli Tender",
+      "confidence": 0.0763,
+      "lift": 12.4937,
+      "support": 0.001278,
+      "score": 0.9533
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1412,
+      "lift": 4.0885,
+      "support": 0.002366,
+      "score": 0.5773
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.1186,
+      "lift": 4.55,
+      "support": 0.001988,
+      "score": 0.5396
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0678,
+      "lift": 2.4786,
+      "support": 0.001136,
+      "score": 0.168
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.096,
+      "lift": 1.2543,
+      "support": 0.001609,
+      "score": 0.1204
+    },
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.0339,
+      "lift": 2.9846,
+      "support": 0.000568,
+      "score": 0.1012
+    },
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.0339,
+      "lift": 2.9,
+      "support": 0.000568,
+      "score": 0.0983
+    },
+    {
+      "item": "Peri Peri Fries",
+      "confidence": 0.0339,
+      "lift": 2.4786,
+      "support": 0.000568,
+      "score": 0.084
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0367,
+      "lift": 2.0529,
+      "support": 0.000615,
+      "score": 0.0753
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.0339,
+      "lift": 1.8557,
+      "support": 0.000568,
+      "score": 0.0629
+    }
+  ],
+  "Fried Chicken Kabuli Tender": [
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.2093,
+      "lift": 12.4937,
+      "support": 0.001278,
+      "score": 2.6149
+    },
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.0853,
+      "lift": 7.6028,
+      "support": 0.000521,
+      "score": 0.6485
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1395,
+      "lift": 4.0391,
+      "support": 0.000852,
+      "score": 0.5635
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0853,
+      "lift": 4.7668,
+      "support": 0.000521,
+      "score": 0.4066
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1008,
+      "lift": 3.6842,
+      "support": 0.000615,
+      "score": 0.3714
+    }
+  ],
+  "Mutton Seekh Pide": [
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.2555,
+      "lift": 9.2916,
+      "support": 0.003313,
+      "score": 2.374
+    },
+    {
+      "item": "Just Pepperoni Pide",
+      "confidence": 0.1277,
+      "lift": 10.7969,
+      "support": 0.001656,
+      "score": 1.3788
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.062,
+      "lift": 1.928,
+      "support": 0.000805,
+      "score": 0.1195
+    },
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.0511,
+      "lift": 2.1212,
+      "support": 0.000663,
+      "score": 0.1084
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.0876,
+      "lift": 1.1411,
+      "support": 0.001136,
+      "score": 0.1
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.073,
+      "lift": 1.3566,
+      "support": 0.000946,
+      "score": 0.099
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0511,
+      "lift": 1.2915,
+      "support": 0.000663,
+      "score": 0.066
+    }
+  ],
+  "Just Pepperoni Pide": [
+    {
+      "item": "Mutton Seekh Pide",
+      "confidence": 0.14,
+      "lift": 10.7969,
+      "support": 0.001656,
+      "score": 1.5116
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.112,
+      "lift": 4.0734,
+      "support": 0.001325,
+      "score": 0.4562
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.108,
+      "lift": 2.7298,
+      "support": 0.001278,
+      "score": 0.2948
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.06,
+      "lift": 1.1151,
+      "support": 0.00071,
+      "score": 0.0669
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.052,
+      "lift": 1.2155,
+      "support": 0.000615,
+      "score": 0.0632
+    }
+  ],
+  "Peri Peri Chicken Melt": [
+    {
+      "item": "Pepperoni Garlic Bread",
+      "confidence": 0.1456,
+      "lift": 10.1185,
+      "support": 0.002177,
+      "score": 1.4733
+    },
+    {
+      "item": "Mutton Seekh Pizza",
+      "confidence": 0.1044,
+      "lift": 8.6538,
+      "support": 0.001562,
+      "score": 0.9035
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.1108,
+      "lift": 2.0585,
+      "support": 0.001656,
+      "score": 0.2281
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0886,
+      "lift": 2.1423,
+      "support": 0.001325,
+      "score": 0.1898
+    },
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.0411,
+      "lift": 1.7079,
+      "support": 0.000615,
+      "score": 0.0702
+    }
+  ],
+  "Pepperoni Garlic Bread": [
+    {
+      "item": "Peri Peri Chicken Melt",
+      "confidence": 0.1513,
+      "lift": 10.1185,
+      "support": 0.002177,
+      "score": 1.5309
+    },
+    {
+      "item": "Mutton Seekh Pizza",
+      "confidence": 0.0987,
+      "lift": 8.1776,
+      "support": 0.00142,
+      "score": 0.8071
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.125,
+      "lift": 3.8844,
+      "support": 0.001798,
+      "score": 0.4855
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.1118,
+      "lift": 2.704,
+      "support": 0.001609,
+      "score": 0.3023
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0757,
+      "lift": 1.4061,
+      "support": 0.001088,
+      "score": 0.1064
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0559,
+      "lift": 1.4135,
+      "support": 0.000805,
+      "score": 0.079
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.0428,
+      "lift": 1.5553,
+      "support": 0.000615,
+      "score": 0.0666
+    }
+  ],
+  "AAC Special Slaw": [
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.2683,
+      "lift": 9.6253,
+      "support": 0.000521,
+      "score": 2.5825
+    }
+  ],
+  "Grilled Chicken Peri Peri Tender": [
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.1051,
+      "lift": 9.3712,
+      "support": 0.001656,
+      "score": 0.9849
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.1081,
+      "lift": 4.7005,
+      "support": 0.001704,
+      "score": 0.5081
+    },
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.0721,
+      "lift": 6.3456,
+      "support": 0.001136,
+      "score": 0.4575
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1111,
+      "lift": 4.0621,
+      "support": 0.001751,
+      "score": 0.4513
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.0721,
+      "lift": 3.9455,
+      "support": 0.001136,
+      "score": 0.2845
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1231,
+      "lift": 1.608,
+      "support": 0.00194,
+      "score": 0.1979
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0631,
+      "lift": 2.4185,
+      "support": 0.000994,
+      "score": 0.1526
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0571,
+      "lift": 1.6516,
+      "support": 0.000899,
+      "score": 0.0943
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.036,
+      "lift": 1.7385,
+      "support": 0.000568,
+      "score": 0.0626
+    }
+  ],
+  "Fried Chicken Ghostbuster Tender": [
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.1477,
+      "lift": 9.3712,
+      "support": 0.001656,
+      "score": 1.3841
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.1013,
+      "lift": 4.403,
+      "support": 0.001136,
+      "score": 0.446
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.097,
+      "lift": 3.7218,
+      "support": 0.001088,
+      "score": 0.361
+    },
+    {
+      "item": "Fried Chicken Kabuli Tender",
+      "confidence": 0.0464,
+      "lift": 7.6028,
+      "support": 0.000521,
+      "score": 0.3528
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0844,
+      "lift": 3.0851,
+      "support": 0.000946,
+      "score": 0.2604
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0928,
+      "lift": 2.687,
+      "support": 0.001041,
+      "score": 0.2494
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.0549,
+      "lift": 2.6463,
+      "support": 0.000615,
+      "score": 0.1453
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0464,
+      "lift": 2.5946,
+      "support": 0.000521,
+      "score": 0.1204
+    }
+  ],
+  "Murgh Amritsari Seekh Pide": [
+    {
+      "item": "Mutton Seekh Pide",
+      "confidence": 0.1205,
+      "lift": 9.2916,
+      "support": 0.003313,
+      "score": 1.1196
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0895,
+      "lift": 2.827,
+      "support": 0.002461,
+      "score": 0.253
+    },
+    {
+      "item": "OG Cheese Pide",
+      "confidence": 0.0551,
+      "lift": 4.4763,
+      "support": 0.001514,
+      "score": 0.2466
+    },
+    {
+      "item": "Just Pepperoni Pide",
+      "confidence": 0.0482,
+      "lift": 4.0734,
+      "support": 0.001325,
+      "score": 0.1963
+    },
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.0361,
+      "lift": 2.652,
+      "support": 0.000994,
+      "score": 0.0957
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.0792,
+      "lift": 1.0315,
+      "support": 0.002177,
+      "score": 0.0817
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0448,
+      "lift": 1.0819,
+      "support": 0.00123,
+      "score": 0.0485
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0327,
+      "lift": 1.0162,
+      "support": 0.000899,
+      "score": 0.0332
+    }
+  ],
+  "Onion Bombs": [
+    {
+      "item": "Animal Fries",
+      "confidence": 0.3023,
+      "lift": 8.7513,
+      "support": 0.000615,
+      "score": 2.6455
+    }
+  ],
+  "Mutton Seekh Pizza": [
+    {
+      "item": "Peri Peri Chicken Melt",
+      "confidence": 0.1294,
+      "lift": 8.6538,
+      "support": 0.001562,
+      "score": 1.1198
+    },
+    {
+      "item": "Pepperoni Garlic Bread",
+      "confidence": 0.1176,
+      "lift": 8.1776,
+      "support": 0.00142,
+      "score": 0.9617
+    },
+    {
+      "item": "Desi Pepperoni Pizza",
+      "confidence": 0.0431,
+      "lift": 5.8059,
+      "support": 0.000521,
+      "score": 0.2502
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0863,
+      "lift": 2.0859,
+      "support": 0.001041,
+      "score": 0.18
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.102,
+      "lift": 1.3283,
+      "support": 0.00123,
+      "score": 0.1355
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0471,
+      "lift": 1.8657,
+      "support": 0.000568,
+      "score": 0.0879
+    }
+  ],
+  "Grilled Chicken Angara Tender": [
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.2125,
+      "lift": 7.7687,
+      "support": 0.002414,
+      "score": 1.6508
+    },
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.1,
+      "lift": 6.3456,
+      "support": 0.001136,
+      "score": 0.6346
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.0708,
+      "lift": 3.8777,
+      "support": 0.000805,
+      "score": 0.2745
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0833,
+      "lift": 3.1959,
+      "support": 0.000946,
+      "score": 0.2662
+    },
+    {
+      "item": "Peri Peri Fries",
+      "confidence": 0.0542,
+      "lift": 3.9605,
+      "support": 0.000615,
+      "score": 0.2147
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.05,
+      "lift": 2.9846,
+      "support": 0.000568,
+      "score": 0.1492
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1042,
+      "lift": 1.3604,
+      "support": 0.001183,
+      "score": 0.1418
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0542,
+      "lift": 1.5679,
+      "support": 0.000615,
+      "score": 0.085
+    }
+  ],
+  "Grilled Chicken Jamaican Tender": [
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.0882,
+      "lift": 7.7687,
+      "support": 0.002414,
+      "score": 0.6852
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.109,
+      "lift": 5.9669,
+      "support": 0.002981,
+      "score": 0.6504
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0917,
+      "lift": 3.5165,
+      "support": 0.002508,
+      "score": 0.3225
+    },
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.064,
+      "lift": 4.0621,
+      "support": 0.001751,
+      "score": 0.26
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.064,
+      "lift": 3.5785,
+      "support": 0.001751,
+      "score": 0.229
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0796,
+      "lift": 2.3037,
+      "support": 0.002177,
+      "score": 0.1834
+    },
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "confidence": 0.0329,
+      "lift": 3.8805,
+      "support": 0.000899,
+      "score": 0.1277
+    },
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.0346,
+      "lift": 3.0851,
+      "support": 0.000946,
+      "score": 0.1067
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0415,
+      "lift": 2.4786,
+      "support": 0.001136,
+      "score": 0.1029
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0398,
+      "lift": 1.7302,
+      "support": 0.001088,
+      "score": 0.0689
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0398,
+      "lift": 1.1487,
+      "support": 0.001088,
+      "score": 0.0457
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0329,
+      "lift": 1.1793,
+      "support": 0.000899,
+      "score": 0.0388
+    }
+  ],
+  "Peri Peri Crisper Fries": [
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1352,
+      "lift": 1.658,
+      "support": 0.003218,
+      "score": 0.2242
+    },
+    {
+      "item": "Harisa Mayo",
+      "confidence": 0.0318,
+      "lift": 7.0017,
+      "support": 0.000757,
+      "score": 0.2227
+    },
+    {
+      "item": "Onion Rings",
+      "confidence": 0.0477,
+      "lift": 3.5377,
+      "support": 0.001136,
+      "score": 0.1687
+    },
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.0437,
+      "lift": 3.7418,
+      "support": 0.001041,
+      "score": 0.1635
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0895,
+      "lift": 1.4311,
+      "support": 0.00213,
+      "score": 0.1281
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0616,
+      "lift": 1.9466,
+      "support": 0.001467,
+      "score": 0.1199
+    },
+    {
+      "item": "Indian Masala Cripser Fries",
+      "confidence": 0.0318,
+      "lift": 3.653,
+      "support": 0.000757,
+      "score": 0.1162
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0636,
+      "lift": 1.4871,
+      "support": 0.001514,
+      "score": 0.0946
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0596,
+      "lift": 1.442,
+      "support": 0.00142,
+      "score": 0.0859
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0656,
+      "lift": 1.2108,
+      "support": 0.001562,
+      "score": 0.0794
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0497,
+      "lift": 1.5445,
+      "support": 0.001183,
+      "score": 0.0768
+    },
+    {
+      "item": "Bellpepper Onion Pizza",
+      "confidence": 0.0318,
+      "lift": 2.2405,
+      "support": 0.000757,
+      "score": 0.0712
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0437,
+      "lift": 1.2678,
+      "support": 0.001041,
+      "score": 0.0554
+    }
+  ],
+  "Fried Chicken Strips": [
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.1752,
+      "lift": 3.2563,
+      "support": 0.00194,
+      "score": 0.5705
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1709,
+      "lift": 2.227,
+      "support": 0.001893,
+      "score": 0.3806
+    },
+    {
+      "item": "Grilled Tangdis",
+      "confidence": 0.0556,
+      "lift": 6.1463,
+      "support": 0.000615,
+      "score": 0.3417
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0726,
+      "lift": 3.7719,
+      "support": 0.000805,
+      "score": 0.2738
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0684,
+      "lift": 2.1248,
+      "support": 0.000757,
+      "score": 0.1453
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0726,
+      "lift": 1.7565,
+      "support": 0.000805,
+      "score": 0.1275
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.0556,
+      "lift": 2.0206,
+      "support": 0.000615,
+      "score": 0.1123
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0769,
+      "lift": 1.4196,
+      "support": 0.000852,
+      "score": 0.1092
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0513,
+      "lift": 2.0331,
+      "support": 0.000568,
+      "score": 0.1043
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.047,
+      "lift": 1.1882,
+      "support": 0.000521,
+      "score": 0.0558
+    }
+  ],
+  "Grilled Tangdis": [
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1937,
+      "lift": 2.5237,
+      "support": 0.001751,
+      "score": 0.4888
+    },
+    {
+      "item": "Fried Chicken Strips",
+      "confidence": 0.0681,
+      "lift": 6.1463,
+      "support": 0.000615,
+      "score": 0.4186
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.1099,
+      "lift": 3.4166,
+      "support": 0.000994,
+      "score": 0.3755
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.1204,
+      "lift": 3.0437,
+      "support": 0.001088,
+      "score": 0.3665
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.0838,
+      "lift": 3.0467,
+      "support": 0.000757,
+      "score": 0.2553
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0838,
+      "lift": 2.0253,
+      "support": 0.000757,
+      "score": 0.1697
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0733,
+      "lift": 1.3622,
+      "support": 0.000663,
+      "score": 0.0998
+    }
+  ],
+  "AAC Signature Fries": [
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.1111,
+      "lift": 6.0826,
+      "support": 0.000521,
+      "score": 0.6758
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1717,
+      "lift": 2.2426,
+      "support": 0.000805,
+      "score": 0.3851
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.1111,
+      "lift": 3.2075,
+      "support": 0.000521,
+      "score": 0.3564
+    }
+  ],
+  "Herbed Potato": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2414,
+      "lift": 1.6515,
+      "support": 0.009985,
+      "score": 0.3987
+    },
+    {
+      "item": "Masala Potato Pide",
+      "confidence": 0.0618,
+      "lift": 6.0443,
+      "support": 0.002555,
+      "score": 0.3735
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1293,
+      "lift": 1.5856,
+      "support": 0.005348,
+      "score": 0.205
+    },
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.0435,
+      "lift": 3.1901,
+      "support": 0.001798,
+      "score": 0.1388
+    },
+    {
+      "item": "Pepperoni Garlic Bread",
+      "confidence": 0.0389,
+      "lift": 2.704,
+      "support": 0.001609,
+      "score": 0.1052
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0435,
+      "lift": 2.1668,
+      "support": 0.001798,
+      "score": 0.0943
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0526,
+      "lift": 1.6624,
+      "support": 0.002177,
+      "score": 0.0874
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0664,
+      "lift": 1.2247,
+      "support": 0.002745,
+      "score": 0.0813
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0686,
+      "lift": 1.0981,
+      "support": 0.002839,
+      "score": 0.0753
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0561,
+      "lift": 1.3105,
+      "support": 0.002319,
+      "score": 0.0735
+    },
+    {
+      "item": "Peri Peri Chicken Melt",
+      "confidence": 0.032,
+      "lift": 2.1423,
+      "support": 0.001325,
+      "score": 0.0686
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0355,
+      "lift": 1.4222,
+      "support": 0.001467,
+      "score": 0.0505
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0343,
+      "lift": 1.442,
+      "support": 0.00142,
+      "score": 0.0495
+    }
+  ],
+  "Masala Potato Pide": [
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.25,
+      "lift": 6.0443,
+      "support": 0.002555,
+      "score": 1.5111
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.1157,
+      "lift": 3.6558,
+      "support": 0.001183,
+      "score": 0.423
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2176,
+      "lift": 1.4885,
+      "support": 0.002224,
+      "score": 0.3239
+    },
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.0556,
+      "lift": 4.0762,
+      "support": 0.000568,
+      "score": 0.2266
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0602,
+      "lift": 1.4068,
+      "support": 0.000615,
+      "score": 0.0847
+    }
+  ],
+  "Grilled Chicken Smoky BBQ Tender": [
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1632,
+      "lift": 5.9669,
+      "support": 0.002981,
+      "score": 0.9738
+    },
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.0622,
+      "lift": 3.9455,
+      "support": 0.001136,
+      "score": 0.2454
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.057,
+      "lift": 3.1861,
+      "support": 0.001041,
+      "score": 0.1816
+    },
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.044,
+      "lift": 3.8777,
+      "support": 0.000805,
+      "score": 0.1706
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.114,
+      "lift": 1.4887,
+      "support": 0.002082,
+      "score": 0.1697
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0518,
+      "lift": 1.9871,
+      "support": 0.000946,
+      "score": 0.1029
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0544,
+      "lift": 1.5748,
+      "support": 0.000994,
+      "score": 0.0857
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0311,
+      "lift": 1.8557,
+      "support": 0.000568,
+      "score": 0.0577
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0363,
+      "lift": 1.577,
+      "support": 0.000663,
+      "score": 0.0572
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.044,
+      "lift": 1.2714,
+      "support": 0.000805,
+      "score": 0.0559
+    }
+  ],
+  "Desi Pepperoni Pizza": [
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.2866,
+      "lift": 3.7341,
+      "support": 0.00213,
+      "score": 1.0702
+    },
+    {
+      "item": "Mutton Seekh Pizza",
+      "confidence": 0.0701,
+      "lift": 5.8059,
+      "support": 0.000521,
+      "score": 0.407
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0764,
+      "lift": 1.9319,
+      "support": 0.000568,
+      "score": 0.1476
+    }
+  ],
+  "Animal Fries": [
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0986,
+      "lift": 3.7825,
+      "support": 0.003407,
+      "score": 0.373
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0685,
+      "lift": 4.0885,
+      "support": 0.002366,
+      "score": 0.2801
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1342,
+      "lift": 1.7533,
+      "support": 0.004638,
+      "score": 0.2353
+    },
+    {
+      "item": "Fried Chicken Beast AAC Burger",
+      "confidence": 0.0356,
+      "lift": 5.7893,
+      "support": 0.00123,
+      "score": 0.2061
+    },
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "confidence": 0.037,
+      "lift": 4.3662,
+      "support": 0.001278,
+      "score": 0.1615
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.063,
+      "lift": 2.3037,
+      "support": 0.002177,
+      "score": 0.1451
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0658,
+      "lift": 1.8981,
+      "support": 0.002272,
+      "score": 0.1249
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0589,
+      "lift": 2.1132,
+      "support": 0.002035,
+      "score": 0.1245
+    },
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0452,
+      "lift": 2.5271,
+      "support": 0.001562,
+      "score": 0.1142
+    },
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.0301,
+      "lift": 2.687,
+      "support": 0.001041,
+      "score": 0.0809
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0384,
+      "lift": 1.6677,
+      "support": 0.001325,
+      "score": 0.064
+    }
+  ],
+  "Onion Rings": [
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0842,
+      "lift": 3.5377,
+      "support": 0.001136,
+      "score": 0.2979
+    },
+    {
+      "item": "Fried Chicken Tenders",
+      "confidence": 0.0421,
+      "lift": 5.7034,
+      "support": 0.000568,
+      "score": 0.2401
+    },
+    {
+      "item": "Salted Crisper Fries",
+      "confidence": 0.0421,
+      "lift": 4.1191,
+      "support": 0.000568,
+      "score": 0.1734
+    },
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.0421,
+      "lift": 3.6021,
+      "support": 0.000568,
+      "score": 0.1516
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0912,
+      "lift": 1.4593,
+      "support": 0.00123,
+      "score": 0.1331
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0842,
+      "lift": 1.5541,
+      "support": 0.001136,
+      "score": 0.1309
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0702,
+      "lift": 1.6967,
+      "support": 0.000946,
+      "score": 0.1191
+    },
+    {
+      "item": "Bellpepper Onion Pizza",
+      "confidence": 0.0386,
+      "lift": 2.7186,
+      "support": 0.000521,
+      "score": 0.1049
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.0877,
+      "lift": 1.1428,
+      "support": 0.001183,
+      "score": 0.1002
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0877,
+      "lift": 1.0758,
+      "support": 0.001183,
+      "score": 0.0943
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0421,
+      "lift": 2.0984,
+      "support": 0.000568,
+      "score": 0.0883
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0596,
+      "lift": 1.1086,
+      "support": 0.000805,
+      "score": 0.0661
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0526,
+      "lift": 1.2303,
+      "support": 0.00071,
+      "score": 0.0647
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0386,
+      "lift": 1.2339,
+      "support": 0.000521,
+      "score": 0.0476
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0386,
+      "lift": 1.2191,
+      "support": 0.000521,
+      "score": 0.0471
+    }
+  ],
+  "Jamaican Chicken Melt": [
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.1372,
+      "lift": 5.696,
+      "support": 0.007383,
+      "score": 0.7815
+    },
+    {
+      "item": "Fried Chicken Strips",
+      "confidence": 0.0361,
+      "lift": 3.2563,
+      "support": 0.00194,
+      "score": 0.1176
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0519,
+      "lift": 1.6589,
+      "support": 0.002792,
+      "score": 0.0861
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0519,
+      "lift": 1.6125,
+      "support": 0.002792,
+      "score": 0.0837
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0422,
+      "lift": 1.6737,
+      "support": 0.002272,
+      "score": 0.0706
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0598,
+      "lift": 1.1037,
+      "support": 0.003218,
+      "score": 0.066
+    },
+    {
+      "item": "Peri Peri Chicken Melt",
+      "confidence": 0.0308,
+      "lift": 2.0585,
+      "support": 0.001656,
+      "score": 0.0634
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0343,
+      "lift": 1.3754,
+      "support": 0.001846,
+      "score": 0.0472
+    }
+  ],
+  "Murgh Amritsari Seekh Melt": [
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.3065,
+      "lift": 5.696,
+      "support": 0.007383,
+      "score": 1.7458
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0786,
+      "lift": 2.5122,
+      "support": 0.001893,
+      "score": 0.1975
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0393,
+      "lift": 1.5755,
+      "support": 0.000946,
+      "score": 0.0619
+    }
+  ],
+  "Indian Masala Fries": [
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1849,
+      "lift": 2.268,
+      "support": 0.001278,
+      "score": 0.4194
+    },
+    {
+      "item": "Peri Peri Fries",
+      "confidence": 0.0753,
+      "lift": 5.5089,
+      "support": 0.000521,
+      "score": 0.4148
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1986,
+      "lift": 1.3588,
+      "support": 0.001372,
+      "score": 0.2699
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1438,
+      "lift": 1.8739,
+      "support": 0.000994,
+      "score": 0.2695
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0959,
+      "lift": 2.4238,
+      "support": 0.000663,
+      "score": 0.2324
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.089,
+      "lift": 2.1528,
+      "support": 0.000615,
+      "score": 0.1916
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0822,
+      "lift": 1.9212,
+      "support": 0.000568,
+      "score": 0.1579
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0959,
+      "lift": 1.4071,
+      "support": 0.000663,
+      "score": 0.1349
+    }
+  ],
+  "Peri Peri Fries": [
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.0623,
+      "lift": 5.3284,
+      "support": 0.000852,
+      "score": 0.332
+    },
+    {
+      "item": "Indian Masala Fries",
+      "confidence": 0.0381,
+      "lift": 5.5089,
+      "support": 0.000521,
+      "score": 0.2099
+    },
+    {
+      "item": "Grilled Chicken Angara Tender",
+      "confidence": 0.045,
+      "lift": 3.9605,
+      "support": 0.000615,
+      "score": 0.1782
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1142,
+      "lift": 1.4004,
+      "support": 0.001562,
+      "score": 0.1599
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0415,
+      "lift": 2.4786,
+      "support": 0.000568,
+      "score": 0.1029
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.083,
+      "lift": 1.0819,
+      "support": 0.001136,
+      "score": 0.0898
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0657,
+      "lift": 1.2133,
+      "support": 0.000899,
+      "score": 0.0797
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0554,
+      "lift": 1.2941,
+      "support": 0.000757,
+      "score": 0.0717
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.045,
+      "lift": 1.0876,
+      "support": 0.000615,
+      "score": 0.0489
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0415,
+      "lift": 1.0495,
+      "support": 0.000568,
+      "score": 0.0436
+    }
+  ],
+  "Masala Paneer Pide": [
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.0717,
+      "lift": 5.2643,
+      "support": 0.002272,
+      "score": 0.3775
+    },
+    {
+      "item": "OG Cheese Pide",
+      "confidence": 0.0613,
+      "lift": 4.9809,
+      "support": 0.00194,
+      "score": 0.3053
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.145,
+      "lift": 1.7782,
+      "support": 0.00459,
+      "score": 0.2578
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.0777,
+      "lift": 2.827,
+      "support": 0.002461,
+      "score": 0.2197
+    },
+    {
+      "item": "Masala Potato Pide",
+      "confidence": 0.0374,
+      "lift": 3.6558,
+      "support": 0.001183,
+      "score": 0.1367
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0688,
+      "lift": 1.6624,
+      "support": 0.002177,
+      "score": 0.1144
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0867,
+      "lift": 1.2722,
+      "support": 0.002745,
+      "score": 0.1103
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0463,
+      "lift": 1.9466,
+      "support": 0.001467,
+      "score": 0.0901
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0389,
+      "lift": 1.2424,
+      "support": 0.00123,
+      "score": 0.0483
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0404,
+      "lift": 1.1698,
+      "support": 0.001278,
+      "score": 0.0473
+    }
+  ],
+  "Spinach Sumac Pide": [
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.1667,
+      "lift": 5.2643,
+      "support": 0.002272,
+      "score": 0.8776
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.1319,
+      "lift": 3.1901,
+      "support": 0.001798,
+      "score": 0.4208
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2118,
+      "lift": 1.4489,
+      "support": 0.002887,
+      "score": 0.3069
+    },
+    {
+      "item": "OG Cheese Pide",
+      "confidence": 0.0556,
+      "lift": 4.5152,
+      "support": 0.000757,
+      "score": 0.251
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.0729,
+      "lift": 2.652,
+      "support": 0.000994,
+      "score": 0.1933
+    },
+    {
+      "item": "Masala Potato Pide",
+      "confidence": 0.0417,
+      "lift": 4.0762,
+      "support": 0.000568,
+      "score": 0.17
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0729,
+      "lift": 1.7044,
+      "support": 0.000994,
+      "score": 0.1243
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0486,
+      "lift": 2.4226,
+      "support": 0.000663,
+      "score": 0.1177
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.066,
+      "lift": 1.0553,
+      "support": 0.000899,
+      "score": 0.0696
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0486,
+      "lift": 1.2287,
+      "support": 0.000663,
+      "score": 0.0597
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0382,
+      "lift": 1.5315,
+      "support": 0.000521,
+      "score": 0.0585
+    }
+  ],
+  "Indian Masala Cripser Fries": [
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.1467,
+      "lift": 2.7081,
+      "support": 0.001278,
+      "score": 0.3973
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.087,
+      "lift": 3.653,
+      "support": 0.000757,
+      "score": 0.3178
+    },
+    {
+      "item": "Garlic Aioli",
+      "confidence": 0.0598,
+      "lift": 5.1144,
+      "support": 0.000521,
+      "score": 0.3058
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.1196,
+      "lift": 1.9126,
+      "support": 0.001041,
+      "score": 0.2287
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1359,
+      "lift": 1.6663,
+      "support": 0.001183,
+      "score": 0.2265
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1576,
+      "lift": 1.0782,
+      "support": 0.001372,
+      "score": 0.1699
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0707,
+      "lift": 2.1955,
+      "support": 0.000615,
+      "score": 0.1552
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0598,
+      "lift": 1.8883,
+      "support": 0.000521,
+      "score": 0.1129
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0761,
+      "lift": 1.1165,
+      "support": 0.000663,
+      "score": 0.085
+    }
+  ],
+  "Mushroom Mozzarella Melt": [
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.1575,
+      "lift": 5.0348,
+      "support": 0.003928,
+      "score": 0.793
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0873,
+      "lift": 1.3963,
+      "support": 0.002177,
+      "score": 0.1219
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.074,
+      "lift": 1.3754,
+      "support": 0.001846,
+      "score": 0.1018
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0588,
+      "lift": 1.4222,
+      "support": 0.001467,
+      "score": 0.0836
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0588,
+      "lift": 1.0856,
+      "support": 0.001467,
+      "score": 0.0638
+    },
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.038,
+      "lift": 1.5755,
+      "support": 0.000946,
+      "score": 0.0599
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0493,
+      "lift": 1.1532,
+      "support": 0.00123,
+      "score": 0.0569
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0398,
+      "lift": 1.1551,
+      "support": 0.000994,
+      "score": 0.046
+    }
+  ],
+  "Angara Paneer Melt": [
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.1256,
+      "lift": 5.0348,
+      "support": 0.003928,
+      "score": 0.6324
+    },
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.0605,
+      "lift": 2.5122,
+      "support": 0.001893,
+      "score": 0.152
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0893,
+      "lift": 1.6589,
+      "support": 0.002792,
+      "score": 0.1481
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0817,
+      "lift": 1.5077,
+      "support": 0.002555,
+      "score": 0.1232
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0666,
+      "lift": 1.0648,
+      "support": 0.002082,
+      "score": 0.0709
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.053,
+      "lift": 1.2377,
+      "support": 0.001656,
+      "score": 0.0656
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0393,
+      "lift": 1.2424,
+      "support": 0.00123,
+      "score": 0.0488
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0348,
+      "lift": 1.0086,
+      "support": 0.001088,
+      "score": 0.0351
+    }
+  ],
+  "OG Cheese Pide": [
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.1577,
+      "lift": 4.9809,
+      "support": 0.00194,
+      "score": 0.7855
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pide",
+      "confidence": 0.1231,
+      "lift": 4.4763,
+      "support": 0.001514,
+      "score": 0.551
+    },
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.0615,
+      "lift": 4.5152,
+      "support": 0.000757,
+      "score": 0.2777
+    },
+    {
+      "item": "Bellpepper Onion Pizza",
+      "confidence": 0.0423,
+      "lift": 2.98,
+      "support": 0.000521,
+      "score": 0.1261
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0654,
+      "lift": 1.8953,
+      "support": 0.000805,
+      "score": 0.124
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0615,
+      "lift": 1.9673,
+      "support": 0.000757,
+      "score": 0.121
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0538,
+      "lift": 2.1591,
+      "support": 0.000663,
+      "score": 0.1162
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0731,
+      "lift": 1.169,
+      "support": 0.000899,
+      "score": 0.0855
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0423,
+      "lift": 1.0229,
+      "support": 0.000521,
+      "score": 0.0433
+    }
+  ],
+  "Bone in Angara Grilled Chicken": [
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.1347,
+      "lift": 4.8326,
+      "support": 0.002792,
+      "score": 0.651
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.2146,
+      "lift": 2.8028,
+      "support": 0.004448,
+      "score": 0.6015
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0845,
+      "lift": 3.6729,
+      "support": 0.001751,
+      "score": 0.3104
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0776,
+      "lift": 2.2409,
+      "support": 0.001609,
+      "score": 0.1739
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0342,
+      "lift": 1.252,
+      "support": 0.00071,
+      "score": 0.0428
+    }
+  ],
+  "Bone in Peri Peri Grilled Chicken": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.2716,
+      "lift": 3.5477,
+      "support": 0.007572,
+      "score": 0.9636
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.1002,
+      "lift": 4.8326,
+      "support": 0.002792,
+      "score": 0.4842
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0866,
+      "lift": 2.4996,
+      "support": 0.002414,
+      "score": 0.2165
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0611,
+      "lift": 2.6575,
+      "support": 0.001704,
+      "score": 0.1624
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.073,
+      "lift": 2.1132,
+      "support": 0.002035,
+      "score": 0.1543
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0323,
+      "lift": 1.1793,
+      "support": 0.000899,
+      "score": 0.0381
+    }
+  ],
+  "Bone in Kabuli Grilled Chicken": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1914,
+      "lift": 2.4991,
+      "support": 0.004401,
+      "score": 0.4783
+    },
+    {
+      "item": "Grilled Chicken Peri Peri Tender",
+      "confidence": 0.0741,
+      "lift": 4.7005,
+      "support": 0.001704,
+      "score": 0.3483
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.107,
+      "lift": 3.0887,
+      "support": 0.002461,
+      "score": 0.3305
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.0761,
+      "lift": 3.6729,
+      "support": 0.001751,
+      "score": 0.2795
+    },
+    {
+      "item": "Fried Chicken Ghostbuster Tender",
+      "confidence": 0.0494,
+      "lift": 4.403,
+      "support": 0.001136,
+      "score": 0.2175
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0741,
+      "lift": 2.6575,
+      "support": 0.001704,
+      "score": 0.1969
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0576,
+      "lift": 1.6677,
+      "support": 0.001325,
+      "score": 0.0961
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0473,
+      "lift": 1.7302,
+      "support": 0.001088,
+      "score": 0.0818
+    }
+  ],
+  "Fried Chicken Classic Tender": [
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0979,
+      "lift": 3.5785,
+      "support": 0.001751,
+      "score": 0.3503
+    },
+    {
+      "item": "Fried Chicken Peri Peri Tender",
+      "confidence": 0.0847,
+      "lift": 3.2466,
+      "support": 0.001514,
+      "score": 0.275
+    },
+    {
+      "item": "Salted Fries",
+      "confidence": 0.0529,
+      "lift": 4.5082,
+      "support": 0.000946,
+      "score": 0.2385
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0873,
+      "lift": 2.5271,
+      "support": 0.001562,
+      "score": 0.2206
+    },
+    {
+      "item": "AAC Grilled Chicken Burger",
+      "confidence": 0.0397,
+      "lift": 4.6845,
+      "support": 0.00071,
+      "score": 0.186
+    },
+    {
+      "item": "Grilled Chicken Smoky BBQ Tender",
+      "confidence": 0.0582,
+      "lift": 3.1861,
+      "support": 0.001041,
+      "score": 0.1854
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1111,
+      "lift": 1.4511,
+      "support": 0.001988,
+      "score": 0.1612
+    },
+    {
+      "item": "Fried Chicken Angara Tender",
+      "confidence": 0.0344,
+      "lift": 2.0529,
+      "support": 0.000615,
+      "score": 0.0706
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.045,
+      "lift": 1.2983,
+      "support": 0.000805,
+      "score": 0.0584
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0317,
+      "lift": 1.1389,
+      "support": 0.000568,
+      "score": 0.0361
+    }
+  ],
+  "Salted Fries": [
+    {
+      "item": "Fried Chicken Classic Tender",
+      "confidence": 0.0806,
+      "lift": 4.5082,
+      "support": 0.000946,
+      "score": 0.3634
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1452,
+      "lift": 1.8958,
+      "support": 0.001704,
+      "score": 0.2753
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0968,
+      "lift": 2.7936,
+      "support": 0.001136,
+      "score": 0.2704
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0645,
+      "lift": 2.3146,
+      "support": 0.000757,
+      "score": 0.1493
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0444,
+      "lift": 1.6216,
+      "support": 0.000521,
+      "score": 0.072
+    }
+  ],
+  "Grilled Chicken Smoky BBQ Tangdi": [
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1217,
+      "lift": 4.4506,
+      "support": 0.000663,
+      "score": 0.5416
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1217,
+      "lift": 1.5899,
+      "support": 0.000663,
+      "score": 0.1935
+    }
+  ],
+  "Grilled Chicken Angara Tangdi": [
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.1209,
+      "lift": 4.4192,
+      "support": 0.000521,
+      "score": 0.5343
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1209,
+      "lift": 3.499,
+      "support": 0.000521,
+      "score": 0.423
+    },
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1538,
+      "lift": 2.0092,
+      "support": 0.000663,
+      "score": 0.309
+    }
+  ],
+  "AAC Saucy Fries": [
+    {
+      "item": "Animal Fries",
+      "confidence": 0.1458,
+      "lift": 4.2214,
+      "support": 0.000663,
+      "score": 0.6155
+    }
+  ],
+  "Peri Peri Paneer Melt": [
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.1048,
+      "lift": 4.2037,
+      "support": 0.000615,
+      "score": 0.4405
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0887,
+      "lift": 2.8359,
+      "support": 0.000521,
+      "score": 0.2515
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.121,
+      "lift": 1.7751,
+      "support": 0.00071,
+      "score": 0.2148
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1048,
+      "lift": 1.2857,
+      "support": 0.000615,
+      "score": 0.1347
+    }
+  ],
+  "Salted Crisper Fries": [
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.1574,
+      "lift": 2.905,
+      "support": 0.001609,
+      "score": 0.4572
+    },
+    {
+      "item": "Onion Rings",
+      "confidence": 0.0556,
+      "lift": 4.1191,
+      "support": 0.000568,
+      "score": 0.229
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.1157,
+      "lift": 1.8514,
+      "support": 0.001183,
+      "score": 0.2142
+    },
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.162,
+      "lift": 1.1085,
+      "support": 0.001656,
+      "score": 0.1796
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0833,
+      "lift": 2.0148,
+      "support": 0.000852,
+      "score": 0.1678
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0602,
+      "lift": 1.7374,
+      "support": 0.000615,
+      "score": 0.1046
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0833,
+      "lift": 1.022,
+      "support": 0.000852,
+      "score": 0.0851
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0602,
+      "lift": 1.4068,
+      "support": 0.000615,
+      "score": 0.0847
+    }
+  ],
+  "Bacon Pepperoni Melt": [
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.1037,
+      "lift": 4.1114,
+      "support": 0.000663,
+      "score": 0.4264
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1556,
+      "lift": 2.0265,
+      "support": 0.000994,
+      "score": 0.3153
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.1111,
+      "lift": 2.065,
+      "support": 0.00071,
+      "score": 0.2294
+    }
+  ],
+  "Murgh Amritsari Garlic Bread": [
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1456,
+      "lift": 1.8967,
+      "support": 0.004685,
+      "score": 0.2762
+    },
+    {
+      "item": "Pepperoni Garlic Bread",
+      "confidence": 0.0559,
+      "lift": 3.8844,
+      "support": 0.001798,
+      "score": 0.2171
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0868,
+      "lift": 1.6125,
+      "support": 0.002792,
+      "score": 0.14
+    },
+    {
+      "item": "Grilled Tangdis",
+      "confidence": 0.0309,
+      "lift": 3.4166,
+      "support": 0.000994,
+      "score": 0.1056
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0882,
+      "lift": 1.0821,
+      "support": 0.002839,
+      "score": 0.0954
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0397,
+      "lift": 2.0615,
+      "support": 0.001278,
+      "score": 0.0818
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0368,
+      "lift": 1.5445,
+      "support": 0.001183,
+      "score": 0.0568
+    }
+  ],
+  "Peri Peri Grilled Chicken Pizza": [
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0934,
+      "lift": 3.7015,
+      "support": 0.001798,
+      "score": 0.3457
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.1081,
+      "lift": 2.7326,
+      "support": 0.002082,
+      "score": 0.2954
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1179,
+      "lift": 1.5364,
+      "support": 0.002272,
+      "score": 0.1811
+    },
+    {
+      "item": "Fried Chicken Strips",
+      "confidence": 0.0418,
+      "lift": 3.7719,
+      "support": 0.000805,
+      "score": 0.1577
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0885,
+      "lift": 1.6324,
+      "support": 0.001704,
+      "score": 0.1445
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0663,
+      "lift": 2.0615,
+      "support": 0.001278,
+      "score": 0.1367
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0786,
+      "lift": 1.1538,
+      "support": 0.001514,
+      "score": 0.0907
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0663,
+      "lift": 1.2329,
+      "support": 0.001278,
+      "score": 0.0817
+    },
+    {
+      "item": "Chicken Pepperoni Pizza",
+      "confidence": 0.0319,
+      "lift": 2.4814,
+      "support": 0.000615,
+      "score": 0.0792
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0344,
+      "lift": 1.7143,
+      "support": 0.000663,
+      "score": 0.059
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0369,
+      "lift": 1.0683,
+      "support": 0.00071,
+      "score": 0.0394
+    }
+  ],
+  "Just Pepperoni Pizza": [
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0713,
+      "lift": 3.7015,
+      "support": 0.001798,
+      "score": 0.2639
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1276,
+      "lift": 1.6621,
+      "support": 0.003218,
+      "score": 0.2121
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0957,
+      "lift": 1.7659,
+      "support": 0.002414,
+      "score": 0.169
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0901,
+      "lift": 1.6737,
+      "support": 0.002272,
+      "score": 0.1508
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0619,
+      "lift": 1.565,
+      "support": 0.001562,
+      "score": 0.0969
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0694,
+      "lift": 1.1104,
+      "support": 0.001751,
+      "score": 0.0771
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.045,
+      "lift": 1.0887,
+      "support": 0.001136,
+      "score": 0.049
+    }
+  ],
+  "Bone in Jamaican Grilled Chicken": [
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0989,
+      "lift": 3.5477,
+      "support": 0.007572,
+      "score": 0.3509
+    },
+    {
+      "item": "Bone in Smoky Bbq Grilled Chicken",
+      "confidence": 0.0958,
+      "lift": 2.7654,
+      "support": 0.007335,
+      "score": 0.2649
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.0581,
+      "lift": 2.8028,
+      "support": 0.004448,
+      "score": 0.1628
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.0575,
+      "lift": 2.4991,
+      "support": 0.004401,
+      "score": 0.1437
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0606,
+      "lift": 1.7533,
+      "support": 0.004638,
+      "score": 0.1062
+    }
+  ],
+  "GhostBuster Sauce": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.2667,
+      "lift": 3.4827,
+      "support": 0.000568,
+      "score": 0.9288
+    }
+  ],
+  "Angara Rice": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.2581,
+      "lift": 3.3703,
+      "support": 0.001136,
+      "score": 0.8699
+    }
+  ],
+  "Grilled Chicken Ghostbuster Tangdi": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.25,
+      "lift": 3.265,
+      "support": 0.000663,
+      "score": 0.8163
+    }
+  ],
+  "Bone in Smoky Bbq Grilled Chicken": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.2117,
+      "lift": 2.7654,
+      "support": 0.007335,
+      "score": 0.5854
+    },
+    {
+      "item": "Bone in Kabuli Grilled Chicken",
+      "confidence": 0.071,
+      "lift": 3.0887,
+      "support": 0.002461,
+      "score": 0.2193
+    },
+    {
+      "item": "Bone in Peri Peri Grilled Chicken",
+      "confidence": 0.0697,
+      "lift": 2.4996,
+      "support": 0.002414,
+      "score": 0.1742
+    },
+    {
+      "item": "Animal Fries",
+      "confidence": 0.0656,
+      "lift": 1.8981,
+      "support": 0.002272,
+      "score": 0.1245
+    },
+    {
+      "item": "Bone in Angara Grilled Chicken",
+      "confidence": 0.0464,
+      "lift": 2.2409,
+      "support": 0.001609,
+      "score": 0.104
+    },
+    {
+      "item": "Salted Fries",
+      "confidence": 0.0328,
+      "lift": 2.7936,
+      "support": 0.001136,
+      "score": 0.0916
+    },
+    {
+      "item": "Grilled Chicken Jamaican Tender",
+      "confidence": 0.0314,
+      "lift": 1.1487,
+      "support": 0.001088,
+      "score": 0.0361
+    }
+  ],
+  "Bellpepper Onion Pizza": [
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.14,
+      "lift": 2.5837,
+      "support": 0.001988,
+      "score": 0.3617
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0933,
+      "lift": 2.7054,
+      "support": 0.001325,
+      "score": 0.2524
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1433,
+      "lift": 1.7579,
+      "support": 0.002035,
+      "score": 0.2519
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0867,
+      "lift": 1.3863,
+      "support": 0.00123,
+      "score": 0.1202
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0533,
+      "lift": 2.2405,
+      "support": 0.000757,
+      "score": 0.1194
+    },
+    {
+      "item": "OG Cheese Pide",
+      "confidence": 0.0367,
+      "lift": 2.98,
+      "support": 0.000521,
+      "score": 0.1094
+    },
+    {
+      "item": "Onion Rings",
+      "confidence": 0.0367,
+      "lift": 2.7186,
+      "support": 0.000521,
+      "score": 0.0998
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.08,
+      "lift": 1.1739,
+      "support": 0.001136,
+      "score": 0.0939
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.06,
+      "lift": 1.4025,
+      "support": 0.000852,
+      "score": 0.0842
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0467,
+      "lift": 1.4919,
+      "support": 0.000663,
+      "score": 0.0697
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.05,
+      "lift": 1.2089,
+      "support": 0.00071,
+      "score": 0.0604
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.04,
+      "lift": 1.2634,
+      "support": 0.000568,
+      "score": 0.0505
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.04,
+      "lift": 1.0111,
+      "support": 0.000568,
+      "score": 0.0404
+    }
+  ],
+  "Murgh Amritsari Seekh Pizza": [
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.1495,
+      "lift": 1.9479,
+      "support": 0.005915,
+      "score": 0.2912
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0526,
+      "lift": 2.7326,
+      "support": 0.002082,
+      "score": 0.1437
+    },
+    {
+      "item": "Just Pepperoni Pide",
+      "confidence": 0.0323,
+      "lift": 2.7298,
+      "support": 0.001278,
+      "score": 0.0882
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0562,
+      "lift": 1.3141,
+      "support": 0.002224,
+      "score": 0.0739
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.0706,
+      "lift": 1.0356,
+      "support": 0.002792,
+      "score": 0.0731
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0395,
+      "lift": 1.565,
+      "support": 0.001562,
+      "score": 0.0618
+    }
+  ],
+  "Peri Peri Paneer Pizza": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2085,
+      "lift": 1.4263,
+      "support": 0.007193,
+      "score": 0.2974
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1385,
+      "lift": 2.0331,
+      "support": 0.00478,
+      "score": 0.2816
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1097,
+      "lift": 1.3459,
+      "support": 0.003786,
+      "score": 0.1476
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0837,
+      "lift": 1.5442,
+      "support": 0.002887,
+      "score": 0.1292
+    },
+    {
+      "item": "Bellpepper Onion Pizza",
+      "confidence": 0.0384,
+      "lift": 2.7054,
+      "support": 0.001325,
+      "score": 0.1039
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0617,
+      "lift": 1.4429,
+      "support": 0.00213,
+      "score": 0.089
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0384,
+      "lift": 1.9142,
+      "support": 0.001325,
+      "score": 0.0735
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.037,
+      "lift": 1.1698,
+      "support": 0.001278,
+      "score": 0.0433
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0302,
+      "lift": 1.2678,
+      "support": 0.001041,
+      "score": 0.0383
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0316,
+      "lift": 1.0086,
+      "support": 0.001088,
+      "score": 0.0319
+    }
+  ],
+  "Cheesy Garlic Bread": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.1834,
+      "lift": 1.2546,
+      "support": 0.009938,
+      "score": 0.2301
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.1109,
+      "lift": 1.7743,
+      "support": 0.00601,
+      "score": 0.1968
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1092,
+      "lift": 1.602,
+      "support": 0.005915,
+      "score": 0.1749
+    },
+    {
+      "item": "Bellpepper Onion Pizza",
+      "confidence": 0.0367,
+      "lift": 2.5837,
+      "support": 0.001988,
+      "score": 0.0948
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0856,
+      "lift": 1.0497,
+      "support": 0.004638,
+      "score": 0.0899
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0533,
+      "lift": 1.5442,
+      "support": 0.002887,
+      "score": 0.0823
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0445,
+      "lift": 1.7659,
+      "support": 0.002414,
+      "score": 0.0786
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0576,
+      "lift": 1.3474,
+      "support": 0.003123,
+      "score": 0.0776
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0472,
+      "lift": 1.5077,
+      "support": 0.002555,
+      "score": 0.0712
+    },
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.0594,
+      "lift": 1.1037,
+      "support": 0.003218,
+      "score": 0.0656
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0507,
+      "lift": 1.2247,
+      "support": 0.002745,
+      "score": 0.0621
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0314,
+      "lift": 1.6324,
+      "support": 0.001704,
+      "score": 0.0513
+    }
+  ],
+  "Chicken Pepperoni Pizza": [
+    {
+      "item": "Jamaican Chicken Melt",
+      "confidence": 0.1029,
+      "lift": 1.9131,
+      "support": 0.001325,
+      "score": 0.1969
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0662,
+      "lift": 2.0564,
+      "support": 0.000852,
+      "score": 0.1361
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0699,
+      "lift": 1.7656,
+      "support": 0.000899,
+      "score": 0.1234
+    },
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.0956,
+      "lift": 1.2453,
+      "support": 0.00123,
+      "score": 0.1191
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.0478,
+      "lift": 2.4814,
+      "support": 0.000615,
+      "score": 0.1186
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0699,
+      "lift": 1.2891,
+      "support": 0.000899,
+      "score": 0.0901
+    },
+    {
+      "item": "Murgh Amritsari Seekh Melt",
+      "confidence": 0.0404,
+      "lift": 1.6789,
+      "support": 0.000521,
+      "score": 0.0678
+    },
+    {
+      "item": "Tripple Cheese Pizza",
+      "confidence": 0.0441,
+      "lift": 1.0313,
+      "support": 0.000568,
+      "score": 0.0455
+    }
+  ],
+  "AAC Signature Crisper Fries": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1864,
+      "lift": 2.4349,
+      "support": 0.000521,
+      "score": 0.4539
+    }
+  ],
+  "Desi Chicken Pepperoni Pizza": [
+    {
+      "item": "All About Chicken Pizza",
+      "confidence": 0.184,
+      "lift": 2.3971,
+      "support": 0.001088,
+      "score": 0.4411
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.096,
+      "lift": 2.4265,
+      "support": 0.000568,
+      "score": 0.2329
+    }
+  ],
+  "Mushroom Pizza": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.283,
+      "lift": 1.9361,
+      "support": 0.005679,
+      "score": 0.5479
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0896,
+      "lift": 2.1668,
+      "support": 0.001798,
+      "score": 0.1941
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1014,
+      "lift": 1.4882,
+      "support": 0.002035,
+      "score": 0.1509
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1108,
+      "lift": 1.3595,
+      "support": 0.002224,
+      "score": 0.1506
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.066,
+      "lift": 1.9142,
+      "support": 0.001325,
+      "score": 0.1263
+    },
+    {
+      "item": "Spinach Sumac Pide",
+      "confidence": 0.033,
+      "lift": 2.4226,
+      "support": 0.000663,
+      "score": 0.0799
+    },
+    {
+      "item": "Peri Peri Grilled Chicken Pizza",
+      "confidence": 0.033,
+      "lift": 1.7143,
+      "support": 0.000663,
+      "score": 0.0566
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.033,
+      "lift": 1.309,
+      "support": 0.000663,
+      "score": 0.0432
+    }
+  ],
+  "Grilled Chicken Peri Peri Tangdi": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1589,
+      "lift": 2.0749,
+      "support": 0.000805,
+      "score": 0.3297
+    }
+  ],
+  "Makhani Paneer Pizza": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2556,
+      "lift": 1.7482,
+      "support": 0.017415,
+      "score": 0.4468
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1299,
+      "lift": 1.5926,
+      "support": 0.00885,
+      "score": 0.2069
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0701,
+      "lift": 2.0331,
+      "support": 0.00478,
+      "score": 0.1425
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0868,
+      "lift": 1.602,
+      "support": 0.005915,
+      "score": 0.1391
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0403,
+      "lift": 1.2722,
+      "support": 0.002745,
+      "score": 0.0513
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.041,
+      "lift": 1.0356,
+      "support": 0.002792,
+      "score": 0.0425
+    }
+  ],
+  "Fried Chicken Peri Peri Tenders + Peri Peri Fries": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.1549,
+      "lift": 2.0234,
+      "support": 0.000521,
+      "score": 0.3134
+    }
+  ],
+  "All About Chicken Pizza": [
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.0771,
+      "lift": 1.9479,
+      "support": 0.005915,
+      "score": 0.1502
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.061,
+      "lift": 1.8967,
+      "support": 0.004685,
+      "score": 0.1157
+    },
+    {
+      "item": "Just Pepperoni Pizza",
+      "confidence": 0.0419,
+      "lift": 1.6621,
+      "support": 0.003218,
+      "score": 0.0696
+    }
+  ],
+  "Bageecha Pizza": [
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.1547,
+      "lift": 1.8978,
+      "support": 0.022621,
+      "score": 0.2936
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1191,
+      "lift": 1.7482,
+      "support": 0.017415,
+      "score": 0.2082
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0683,
+      "lift": 1.6515,
+      "support": 0.009985,
+      "score": 0.1128
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.068,
+      "lift": 1.2546,
+      "support": 0.009938,
+      "score": 0.0853
+    },
+    {
+      "item": "Mushroom Pizza",
+      "confidence": 0.0388,
+      "lift": 1.9361,
+      "support": 0.005679,
+      "score": 0.0751
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0492,
+      "lift": 1.4263,
+      "support": 0.007193,
+      "score": 0.0702
+    }
+  ],
+  "Chilli Cheese Garlic Bread": [
+    {
+      "item": "Bageecha Pizza",
+      "confidence": 0.2774,
+      "lift": 1.8978,
+      "support": 0.022621,
+      "score": 0.5264
+    },
+    {
+      "item": "Makhani Paneer Pizza",
+      "confidence": 0.1085,
+      "lift": 1.5926,
+      "support": 0.00885,
+      "score": 0.1728
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0656,
+      "lift": 1.5856,
+      "support": 0.005348,
+      "score": 0.104
+    },
+    {
+      "item": "Masala Paneer Pide",
+      "confidence": 0.0563,
+      "lift": 1.7782,
+      "support": 0.00459,
+      "score": 0.1001
+    },
+    {
+      "item": "Margherita Pizza",
+      "confidence": 0.0656,
+      "lift": 1.0491,
+      "support": 0.005348,
+      "score": 0.0688
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0395,
+      "lift": 1.658,
+      "support": 0.003218,
+      "score": 0.0655
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0464,
+      "lift": 1.3459,
+      "support": 0.003786,
+      "score": 0.0624
+    },
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0569,
+      "lift": 1.0497,
+      "support": 0.004638,
+      "score": 0.0597
+    },
+    {
+      "item": "Murgh Amritsari Garlic Bread",
+      "confidence": 0.0348,
+      "lift": 1.0821,
+      "support": 0.002839,
+      "score": 0.0377
+    }
+  ],
+  "Margherita Pizza": [
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.0961,
+      "lift": 1.7743,
+      "support": 0.00601,
+      "score": 0.1705
+    },
+    {
+      "item": "Chilli Cheese Garlic Bread",
+      "confidence": 0.0855,
+      "lift": 1.0491,
+      "support": 0.005348,
+      "score": 0.0897
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0454,
+      "lift": 1.0981,
+      "support": 0.002839,
+      "score": 0.0499
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0341,
+      "lift": 1.4311,
+      "support": 0.00213,
+      "score": 0.0488
+    },
+    {
+      "item": "Mushroom Mozzarella Melt",
+      "confidence": 0.0348,
+      "lift": 1.3963,
+      "support": 0.002177,
+      "score": 0.0486
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0333,
+      "lift": 1.0648,
+      "support": 0.002082,
+      "score": 0.0355
+    }
+  ],
+  "Tripple Cheese Pizza": [
+    {
+      "item": "Cheesy Garlic Bread",
+      "confidence": 0.073,
+      "lift": 1.3474,
+      "support": 0.003123,
+      "score": 0.0984
+    },
+    {
+      "item": "Peri Peri Paneer Pizza",
+      "confidence": 0.0498,
+      "lift": 1.4429,
+      "support": 0.00213,
+      "score": 0.0719
+    },
+    {
+      "item": "Herbed Potato",
+      "confidence": 0.0542,
+      "lift": 1.3105,
+      "support": 0.002319,
+      "score": 0.071
+    },
+    {
+      "item": "Murgh Amritsari Seekh Pizza",
+      "confidence": 0.052,
+      "lift": 1.3141,
+      "support": 0.002224,
+      "score": 0.0683
+    },
+    {
+      "item": "Peri Peri Crisper Fries",
+      "confidence": 0.0354,
+      "lift": 1.4871,
+      "support": 0.001514,
+      "score": 0.0526
+    },
+    {
+      "item": "Angara Paneer Melt",
+      "confidence": 0.0387,
+      "lift": 1.2377,
+      "support": 0.001656,
+      "score": 0.0479
+    }
+  ],
+  "Grilled Chicken Jamaican Tangdi": [
+    {
+      "item": "Bone in Jamaican Grilled Chicken",
+      "confidence": 0.0889,
+      "lift": 1.1609,
+      "support": 0.000568,
+      "score": 0.1032
+    }
+  ]
+}

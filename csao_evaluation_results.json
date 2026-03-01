@@ -1,0 +1,38 @@
+{
+  "hit_rate": {
+    "Hit@1": 0.158,
+    "Hit@3": 0.35,
+    "Hit@5": 0.43,
+    "Hit@10": 0.632,
+    "avg_latency_ms": 1.369
+  },
+  "aov_uplift": {
+    "single_item_avg_bill": 525.61,
+    "multi_item_avg_bill": 935.73,
+    "potential_aov_uplift_pct": 78.0,
+    "csao_attach_rate": 1.0
+  },
+  "latency_benchmark": {
+    "p50_ms": 4.613,
+    "p95_ms": 7.002,
+    "p99_ms": 11.122,
+    "max_ms": 234.618
+  },
+  "graph_stats": {
+    "total_items": 244,
+    "total_orders": 21131,
+    "multi_item_orders": 11559,
+    "global_graph_nodes": 85,
+    "total_rules": 545,
+    "sub_graphs_count": 13,
+    "bert_model": "all-MiniLM-L6-v2",
+    "embedding_dim": 384,
+    "semantic_clusters": 39
+  },
+  "phase2_features": {
+    "mmr_lambda": 0.6,
+    "ev_weight": 0.3,
+    "xgb_val_auc": 0.9279,
+    "xgb_val_accuracy": 0.8689
+  }
+}
