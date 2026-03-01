@@ -186,7 +186,7 @@ This produces \textbf{545 directional rules} across \textbf{85 graph nodes}. The
 
 Each context dimension generates independent sub-graphs with relaxed thresholds (Support $\geq$ 0.0005, Confidence $\geq$ 0.03) to capture sparser patterns.
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_subgraphs.png}
 \caption{13 contextual sub-graphs by dimension. Premium tier has the densest graph (109 nodes) due to larger, more diverse orders.}
@@ -264,7 +264,7 @@ A 100-tree XGBClassifier re-ranks the top-20 graph candidates using 7 tabular fe
 
 \textbf{Hyperparameters:} 100 estimators, max depth 4, learning rate 0.1, subsample 0.8, \texttt{eval\_metric = 'auc'}.
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_feature_importance.png}
 \caption{XGBoost feature importance by gain. Graph confidence dominates, but SASRec and BERT provide complementary sequential and semantic signals.}
@@ -292,7 +292,7 @@ MMR prevents recommendation fatigue by penalizing items too similar to already-s
 
 where $S$ is the set of already-selected recommendations, $\text{Sim}(i,j)$ is BERT cosine similarity, and $\lambda = 0.6$ (tunable).
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_mmr.png}
 \caption{MMR eliminates the ``3 types of Raita'' problem. Without MMR, 4/5 recommendations are near-identical fries variants. With MMR ($\lambda=0.6$), the top-5 span 5 distinct food categories.}
@@ -338,7 +338,7 @@ CSAO Attach Rate & 100\% & All carts get recs \\
 \end{tabular}
 \end{center}
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_hitrate.png}
 \caption{Hit@K evaluation curve. 50.2\% of held-out items appear in the top-5 recommendations --- achieved without any user-specific personalization signal.}
@@ -349,7 +349,7 @@ CSAO Attach Rate & 100\% & All carts get recs \\
 
 Adding \texttt{sasrec\_score} as the 7th feature produced significant improvements across all evaluation metrics:
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_sasrec.png}
 \caption{SASRec ablation: comparing 6-feature vs.\ 7-feature XGBoost. Hit@1 improved by \textbf{92\%}, demonstrating that the Transformer captures sequential patterns the association rule graph misses.}
@@ -358,7 +358,7 @@ Adding \texttt{sasrec\_score} as the 7th feature produced significant improvemen
 
 \subsection{Latency Benchmark}
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_latency.png}
 \caption{Latency distribution over 1,000 inference iterations. P50 = 3.65ms, 82$\times$ under the 300ms budget. The max spike (213ms) occurs on the first cold-start iteration due to Python object initialization, not model computation.}
@@ -367,7 +367,7 @@ Adding \texttt{sasrec\_score} as the 7th feature produced significant improvemen
 
 \subsection{Business Impact: AOV Uplift}
 
-\begin{figure}[h]
+\begin{figure}[htpb]
 \centering
 \includegraphics[width=\linewidth]{fig_aov.png}
 \caption{Projected AOV uplift. Baseline single-item orders average \Rs525; with CSAO add-ons, the projected average rises to \Rs935 --- a \textbf{78\% increase} driven by EV re-ranking's preference for higher-value complementary items.}
